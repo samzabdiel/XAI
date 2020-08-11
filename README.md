@@ -13,6 +13,7 @@
 | Title | Paper Title                                                                                                 | Source Link                                                                                                                                                                                            | Code                                                                                          | Tags                                                                              |
 | ------------ | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | **CAM** | [Learning Deep Features for Discriminative Localization](http://cnnlocalization.csail.mit.edu/) | [CVPR2016](https://arxiv.org/pdf/1512.04150v1.pdf) | [PyTorch (Official)](https://github.com/zhoubolei/CAM) | `class activation mapping`  |
+| **LIME** | [“Why Should I Trust You?”Explaining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938) | [KDD2016](https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf) | [PyTorch (Official)](https://github.com/marcotcr/lime-experiments) | `trust a prediction`  |
 
 
 
