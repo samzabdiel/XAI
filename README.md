@@ -24,6 +24,10 @@
 | **Network Dissection** | [Network Dissection: Quantifying Interpretability of Deep Visual Representations](http://netdissect.csail.mit.edu/) | [CVPR2017](https://arxiv.org/pdf/1704.05796.pdf) | [PyTorch (Official)](https://github.com/CSAILVision/NetDissect) | `Visualization`  |
 
 
+### 2018 Conference Papers
+| Title | Paper Title                                                                                                 | Source Link                                                                                                                                                                                            | Code                                                                                          | Tags                                                                              |
+| ------------ | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| **Interpretable CNN** | Interpretable Convolutional Neural Networks | [CVPR2019](https://arxiv.org/pdf/1710.00935.pdf) | [Tensorflow](https://github.com/andrehuang/InterpretableCNN) | `explainability by design`  |
 
 ### 2019 Conference Papers
 | Title | Paper Title                                                                                                 | Source Link                                                                                                                                                                                            | Code                                                                                          | Tags                                                                              |
