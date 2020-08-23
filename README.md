@@ -53,3 +53,4 @@
 |**When explanations lie**|When Explanations Lie: Why Many Modified BP Attributions Fail|[ICML 2020](https://arxiv.org/pdf/1912.09818v6.pdf)|[PyTorch](https://github.com/berleon/when-explanations-lie)||
 |**Similarity models**|Towards Visually Explaining Similarity Models| [Arxiv](https://arxiv.org/pdf/2008.06035.pdf)|||
 |**Quantify trust**|How Much Should I Trust You? Modeling Uncertainty of Black Box Explanations|[NeurIPS 2020 submission](https://arxiv.org/pdf/2008.05030.pdf)||`hima_lakkaraju`,`sameer_singh`,`model-agnostic`|
+|**Concepts for segmentation task**|ABSTRACTING DEEP NEURAL NETWORKS INTO CONCEPT GRAPHS FOR CONCEPT LEVEL INTERPRETABILITY| [Arxiv](https://arxiv.org/pdf/2008.06457.pdf)|[Tensorflow 1.14](https://github.com/koriavinash1/BioExp)|`brain tumour segmentation`|
