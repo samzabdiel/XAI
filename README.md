@@ -57,3 +57,4 @@
 |**Quantify trust**|How Much Should I Trust You? Modeling Uncertainty of Black Box Explanations|[NeurIPS 2020 submission](https://arxiv.org/pdf/2008.05030.pdf)||`hima_lakkaraju`,`sameer_singh`,`model-agnostic`|
 |**Concepts for segmentation task**|ABSTRACTING DEEP NEURAL NETWORKS INTO CONCEPT GRAPHS FOR CONCEPT LEVEL INTERPRETABILITY| [Arxiv](https://arxiv.org/pdf/2008.06457.pdf)|[Tensorflow 1.14](https://github.com/koriavinash1/BioExp)|`brain tumour segmentation`|
 |**Deep Lift based Network Pruning**|Utilizing Explainable AI for Quantization and Pruning of Deep Neural Networks|[Arxiv NeurIPS format](https://arxiv.org/pdf/2008.09072.pdf)||`nas`,`deep_lift`|
+|**Unifed Attribution Framework**|A Unified Taylor Framework for Revisiting Attribution Methods|[Arxiv](https://arxiv.org/pdf/2008.09695.pdf)||`taylor`,`attribution_framework`|
