@@ -37,6 +37,7 @@
 | ------------ | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | **Full-grad** | [Full-Gradient Representation for Neural Network Visualization](https://www.idiap.ch/workshop/smld2019/slides/smld2019_suraj_srinivas.pdf) | [NeurIPS2019](https://arxiv.org/pdf/1905.00780.pdf) | [PyTorch (Official)](https://github.com/idiap/fullgrad-saliency) [Tensorflow](https://github.com/vk1996/fullgradsaliency_tf) | `saliency map representation`  |
 | **This looks like that** | [This Looks Like That: Deep Learning for Interpretable Image Recognition](https://papers.nips.cc/paper/9095-this-looks-like-that-deep-learning-for-interpretable-image-recognition) | [NeurIPS2019](https://papers.nips.cc/paper/9095-this-looks-like-that-deep-learning-for-interpretable-image-recognition.pdf) | [PyTorch (Official)](https://github.com/cfchen-duke/ProtoPNet) | `object`  |
+| **Counterfactual visual explanations** | Counterfactual visual explanations | [ICML2019](https://arxiv.org/pdf/1904.07451v2.pdf) |  | `modify into another class image`  |
 
 
 ### 2020 Papers
