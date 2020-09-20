@@ -62,3 +62,7 @@
 |**relevance estimation**|Determining the Relevance of Features for Deep Neural Networks|[ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710324.pdf)|||
 |**localized concept maps**|Explaining AI-based Decision Support Systems using Concept Localization Maps|[Arxiv](https://arxiv.org/pdf/2005.01399.pdf)|[Just repository created](https://github.com/adriano-lucieri/SCDB)||
 |**quantify saliency**|Quantifying Explainability of Saliency Methods in Deep Neural Networks|[Arxiv](https://arxiv.org/pdf/2009.02899.pdf)|[PyTorch](https://github.com/etjoa003/explainable_ai/tree/master/xai_basic)||
+|**generalization of LIME - MeLIME**|MeLIME: Meaningful Local Explanation for Machine Learning Models|[Arxiv](https://arxiv.org/pdf/2009.05818.pdf)|[Tensorflow 1.15](https://github.com/tiagobotari/melime)||
+|**global counterfactual explanations**|Interpretable and Interactive Summaries of Actionable Recourses|[Arxiv](https://arxiv.org/pdf/2009.07165.pdf)|||
+|**fine grained counterfactual heatmaps**|SCOUTER: Slot Attention-based Classifier for Explainable Image Recognition|[Arxiv](https://arxiv.org/pdf/2009.06138.pdf)|[PyTorch](https://github.com/wbw520/scouter)|`scouter`|
+|**quantify trust**|How Much Can We Really Trust You? Towards Simple, Interpretable Trust Quantification Metrics for Deep Neural Networks|[Arxiv](https://arxiv.org/pdf/2009.05835.pdf)|||
