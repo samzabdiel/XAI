@@ -58,3 +58,4 @@
 |**Concepts for segmentation task**|ABSTRACTING DEEP NEURAL NETWORKS INTO CONCEPT GRAPHS FOR CONCEPT LEVEL INTERPRETABILITY| [Arxiv](https://arxiv.org/pdf/2008.06457.pdf)|[Tensorflow 1.14](https://github.com/koriavinash1/BioExp)|`brain tumour segmentation`|
 |**Deep Lift based Network Pruning**|Utilizing Explainable AI for Quantization and Pruning of Deep Neural Networks|[Arxiv NeurIPS format](https://arxiv.org/pdf/2008.09072.pdf)||`nas`,`deep_lift`|
 |**Unifed Attribution Framework**|A Unified Taylor Framework for Revisiting Attribution Methods|[Arxiv](https://arxiv.org/pdf/2008.09695.pdf)||`taylor`,`attribution_framework`|
+|**Global Cocept Attribution**|Towards Global Explanations of Convolutional Neural Networks with Concept Attribution|[CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Towards_Global_Explanations_of_Convolutional_Neural_Networks_With_Concept_Attribution_CVPR_2020_paper.pdf)|||
