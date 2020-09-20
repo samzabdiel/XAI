@@ -59,3 +59,5 @@
 |**Deep Lift based Network Pruning**|Utilizing Explainable AI for Quantization and Pruning of Deep Neural Networks|[Arxiv NeurIPS format](https://arxiv.org/pdf/2008.09072.pdf)||`nas`,`deep_lift`|
 |**Unifed Attribution Framework**|A Unified Taylor Framework for Revisiting Attribution Methods|[Arxiv](https://arxiv.org/pdf/2008.09695.pdf)||`taylor`,`attribution_framework`|
 |**Global Cocept Attribution**|Towards Global Explanations of Convolutional Neural Networks with Concept Attribution|[CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Towards_Global_Explanations_of_Convolutional_Neural_Networks_With_Concept_Attribution_CVPR_2020_paper.pdf)|||
+|**relevance estimation**|Determining the Relevance of Features for Deep Neural Networks|[ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710324.pdf)|||
+|**localized concept maps**|Explaining AI-based Decision Support Systems using Concept Localization Maps|[Arxiv](https://arxiv.org/pdf/2005.01399.pdf)|[Just repository created](https://github.com/adriano-lucieri/SCDB)||
