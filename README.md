@@ -42,6 +42,7 @@
 | **Counterfactual visual explanations** | Counterfactual visual explanations | [ICML2019](https://arxiv.org/pdf/1904.07451v2.pdf) |  | `interpretability`  |
 |**concept with contribution interpretable cnn**|Explaining Neural Networks Semantically and Quantitatively|[ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Explaining_Neural_Networks_Semantically_and_Quantitatively_ICCV_2019_paper.pdf)|||
 |**SIS**|[What made you do this? Understanding black-box decisions with sufficient input subsets](http://proceedings.mlr.press/v89/carter19a/carter19a.pdf)|[AISTATS 2019 - Supplementary Material](http://proceedings.mlr.press/v89/carter19a/carter19a-supp.pdf)|[Tensorflow 1.x](https://github.com/b-carter/SufficientInputSubsets)||
+|**Filter as concept detector**|Filters in Convolutional Neural Networks as Independent Detectors of Visual Concepts|[ACM](https://dl.acm.org/doi/10.1145/3345252.3345294)|||
 
 ### 2020 Papers
 | Title | Paper Title                                                                                                 | Source Link                                                                                                                                                                                            | Code                                                                                          | Tags                                                             |
