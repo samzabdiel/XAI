@@ -67,3 +67,7 @@
 |**global counterfactual explanations**|Interpretable and Interactive Summaries of Actionable Recourses|[Arxiv](https://arxiv.org/pdf/2009.07165.pdf)|||
 |**fine grained counterfactual heatmaps**|SCOUTER: Slot Attention-based Classifier for Explainable Image Recognition|[Arxiv](https://arxiv.org/pdf/2009.06138.pdf)|[PyTorch](https://github.com/wbw520/scouter)|`scouter`|
 |**quantify trust**|How Much Can We Really Trust You? Towards Simple, Interpretable Trust Quantification Metrics for Deep Neural Networks|[Arxiv](https://arxiv.org/pdf/2009.05835.pdf)|||
+|**Non-negative concept activation vectors**|IMPROVING INTERPRETABILITY OF CNN MODELS USING NON-NEGATIVE CONCEPT ACTIVATION VECTORS|[Arxiv](https://arxiv.org/pdf/2006.15417.pdf)|||
+|**different layer activations**|Explaining Neural Networks by Decoding Layer Activations|[Arxiv](https://arxiv.org/pdf/2005.13630.pdf)|||
+|**concept bottleneck networks**|Concept Bottleneck Models|[ICML 2020](https://arxiv.org/pdf/2007.04612.pdf)|[PyTorch](https://github.com/yewsiang/ConceptBottleneck)||
+|**attribuion**|Visualizing the Impact of Feature Attribution Baselines|[Distill](https://distill.pub/2020/attribution-baselines/)|||
