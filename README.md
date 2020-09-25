@@ -41,6 +41,7 @@
 | **This looks like that** | [This Looks Like That: Deep Learning for Interpretable Image Recognition](https://papers.nips.cc/paper/9095-this-looks-like-that-deep-learning-for-interpretable-image-recognition) | [NeurIPS2019](https://papers.nips.cc/paper/9095-this-looks-like-that-deep-learning-for-interpretable-image-recognition.pdf) | [PyTorch (Official)](https://github.com/cfchen-duke/ProtoPNet) | `object`  |
 | **Counterfactual visual explanations** | Counterfactual visual explanations | [ICML2019](https://arxiv.org/pdf/1904.07451v2.pdf) |  | `interpretability`  |
 |**concept with contribution interpretable cnn**|Explaining Neural Networks Semantically and Quantitatively|[ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Explaining_Neural_Networks_Semantically_and_Quantitatively_ICCV_2019_paper.pdf)|||
+|**SIS**|[What made you do this? Understanding black-box decisions with sufficient input subsets](http://proceedings.mlr.press/v89/carter19a/carter19a.pdf)|[AISTATS 2019 - Supplementary Material](http://proceedings.mlr.press/v89/carter19a/carter19a-supp.pdf)|[Tensorflow 1.x](https://github.com/b-carter/SufficientInputSubsets)||
 
 ### 2020 Papers
 | Title | Paper Title                                                                                                 | Source Link                                                                                                                                                                                            | Code                                                                                          | Tags                                                             |
@@ -70,4 +71,4 @@
 |**Non-negative concept activation vectors**|IMPROVING INTERPRETABILITY OF CNN MODELS USING NON-NEGATIVE CONCEPT ACTIVATION VECTORS|[Arxiv](https://arxiv.org/pdf/2006.15417.pdf)|||
 |**different layer activations**|Explaining Neural Networks by Decoding Layer Activations|[Arxiv](https://arxiv.org/pdf/2005.13630.pdf)|||
 |**concept bottleneck networks**|Concept Bottleneck Models|[ICML 2020](https://arxiv.org/pdf/2007.04612.pdf)|[PyTorch](https://github.com/yewsiang/ConceptBottleneck)||
-|**attribuion**|Visualizing the Impact of Feature Attribution Baselines|[Distill](https://distill.pub/2020/attribution-baselines/)|||
+|**attribution**|Visualizing the Impact of Feature Attribution Baselines|[Distill](https://distill.pub/2020/attribution-baselines/)|||
