@@ -75,3 +75,4 @@
 |**attribution**|Visualizing the Impact of Feature Attribution Baselines|[Distill](https://distill.pub/2020/attribution-baselines/)|||
 |**CSI**|Contextual Semantic Interpretability|[Arxiv](https://arxiv.org/pdf/2009.08720.pdf)||`explainable_by_design`|
 |**Improve black box via explanation**|Introspective Learning by Distilling Knowledge from Online Self-explanation|[Arxiv](https://arxiv.org/pdf/2009.09140.pdf)||`kowledge_distillation`|
+|**Patch explanations**|Information-Theoretic Visual Explanation for Black-Box Classifiers|[Arxiv](https://arxiv.org/pdf/2009.11150.pdf)|[Tensorflow 1.13.1](https://github.com/nuclearboy95/XAI-Information-Theoretic-Explanation)|`patch_sampling`,`information_theory`|
