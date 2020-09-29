@@ -74,3 +74,4 @@
 |**concept bottleneck networks**|Concept Bottleneck Models|[ICML 2020](https://arxiv.org/pdf/2007.04612.pdf)|[PyTorch](https://github.com/yewsiang/ConceptBottleneck)||
 |**attribution**|Visualizing the Impact of Feature Attribution Baselines|[Distill](https://distill.pub/2020/attribution-baselines/)|||
 |**CSI**|Contextual Semantic Interpretability|[Arxiv](https://arxiv.org/pdf/2009.08720.pdf)||`explainable_by_design`|
+|**Improve black box via explanation**|Introspective Learning by Distilling Knowledge from Online Self-explanation|[Arxiv](https://arxiv.org/pdf/2009.09140.pdf)||`kowledge_distillation`|
