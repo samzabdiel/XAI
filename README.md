@@ -93,3 +93,4 @@
 |**Gradient attribution**|Rethinking the Role of Gradient-based Attribution Methods for Model Interpretability|[ICLR 2021 submissions page](https://openreview.net/forum?id=dYeAHXnpWJ4)||`looks like extension of Sixt et al paper`|
 |**Mask based Explainable by Design**|Investigating and Simplifying Masking-based Saliency Methods for Model Interpretability|[ICLR 2021 submissions page](https://openreview.net/forum?id=eyXknI5scWu)|||
 |**NBDT - Explainable by Design**|NBDT: Neural-Backed Decision Tree|[ICLR 2021 submissions page](https://openreview.net/forum?id=mCLVeEpplNE)|||
+|**Variational Saliency Maps**|Variational saliency maps for explaining model's behavior|[ICLR 2021 submissions page](https://openreview.net/forum?id=x2ywTOFM4xt)|||
