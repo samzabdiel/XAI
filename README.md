@@ -89,3 +89,4 @@
 |**Subspace explanation**|Constraint-Driven Explanations of Black-Box ML Models|[ICLR 2021 submissions page](https://openreview.net/forum?id=kVZ6WBYazFq)||`to see how close to MUSE by Hima Lakkaraju 2019`|
 |**Catastrophic forgetting**|Remembering for the Right Reasons: Explanations Reduce Catastrophic Forgetting|[ICLR 2021 submissions page](https://openreview.net/forum?id=tHgJoMfy6nI)|Code available in their Supplementary zip file||
 |**Non trivial counterfactual explanations**|Beyond Trivial Counterfactual Generations with Diverse Valuable Explanations|[ICLR 2021 submissions page](https://openreview.net/forum?id=KWToR-Phbrz)|||
+|**Explainable by Design**|Interpretability Through Invertibility: A Deep Convolutional Network With Ideal Counterfactuals And Isosurfaces|[ICLR 2021 submissions page](https://openreview.net/forum?id=8YFhXYe1Ps)|||
