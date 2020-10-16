@@ -95,3 +95,4 @@
 |**NBDT - Explainable by Design**|NBDT: Neural-Backed Decision Tree|[ICLR 2021 submissions page](https://openreview.net/forum?id=mCLVeEpplNE)|||
 |**Variational Saliency Maps**|Variational saliency maps for explaining model's behavior|[ICLR 2021 submissions page](https://openreview.net/forum?id=x2ywTOFM4xt)|||
 |**Network dissection with coherency or stability metric**|Importance and Coherence: Methods for Evaluating Modularity in Neural Networks|[ICLR 2021 submissions page](https://openreview.net/forum?id=4qgEGwOtxU)|||
+|**Modularity**|Are Neural Nets Modular? Inspecting Functional Modularity Through Differentiable Weight Masks|[ICLR 2021 submissions page](https://openreview.net/forum?id=7uVcpu-gMD)|Code made anonymous for review, link given in paper||
