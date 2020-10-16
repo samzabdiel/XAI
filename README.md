@@ -90,3 +90,4 @@
 |**Catastrophic forgetting**|Remembering for the Right Reasons: Explanations Reduce Catastrophic Forgetting|[ICLR 2021 submissions page](https://openreview.net/forum?id=tHgJoMfy6nI)|Code available in their Supplementary zip file||
 |**Non trivial counterfactual explanations**|Beyond Trivial Counterfactual Generations with Diverse Valuable Explanations|[ICLR 2021 submissions page](https://openreview.net/forum?id=KWToR-Phbrz)|||
 |**Explainable by Design**|Interpretability Through Invertibility: A Deep Convolutional Network With Ideal Counterfactuals And Isosurfaces|[ICLR 2021 submissions page](https://openreview.net/forum?id=8YFhXYe1Ps)|||
+|**Gradient attribution**|Rethinking the Role of Gradient-based Attribution Methods for Model Interpretability|ICLR 2021 submissions page](https://openreview.net/forum?id=dYeAHXnpWJ4)||`looks like extension of Sixt et al paper`|
