@@ -83,3 +83,4 @@
 |**Prototype Trajectory**|Interpretable Sequence Classification Via Prototype Trajectory|[ICLR 2021 submissions page](https://openreview.net/forum?id=KwgQn_Aws3_)| |`this looks like that styled RNN`|
 |**Shapley dependence assumption**|Shapley explainability on the data manifold|[ICLR 2021 submissions page](https://openreview.net/forum?id=OPyWRrcjVQw)|||
 |**High dimension Shapley**|Human-interpretable model explainability on high-dimensional data|[ICLR 2021 submissions page](https://openreview.net/forum?id=VlRqY4sV9FO)|||
+|**L2x like paper**|A Learning Theoretic Perspective on Local Explainability|[ICLR 2021 submissions page](https://openreview.net/forum?id=7aL-OtQrBWD)|||
