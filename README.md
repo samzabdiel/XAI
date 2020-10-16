@@ -79,6 +79,5 @@
 ### 2021 Papers
 | Title | Paper Title                                                                                                 | Source Link                                                                                                                                                                                            | Code                                                                                          | Tags      
 | ------------ | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-|
-Debiasing concepts | Debiasing Concept Bottleneck Models with Instrumental Variables|[ICLR 2021 submissions page](https://openreview.net/forum?id=6puUoArESGp)| |`causality`|
+|**Debiasing concepts** | Debiasing Concept Bottleneck Models with Instrumental Variables|[ICLR 2021 submissions page](https://openreview.net/forum?id=6puUoArESGp)| |`causality`|
 
