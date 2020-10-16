@@ -88,3 +88,4 @@
 |**Model correction**|Defuse: Debugging Classifiers Through Distilling Unrestricted Adversarial Examples|[ICLR 2021 submissions page](https://openreview.net/pdf?id=3R--2TdxMps)|||
 |**Subspace explanation**|Constraint-Driven Explanations of Black-Box ML Models|[ICLR 2021 submissions page](https://openreview.net/forum?id=kVZ6WBYazFq)||`to see how close to MUSE by Hima Lakkaraju 2019`|
 |**Catastrophic forgetting**|Remembering for the Right Reasons: Explanations Reduce Catastrophic Forgetting|[ICLR 2021 submissions page](https://openreview.net/forum?id=tHgJoMfy6nI)|Code available in their Supplementary zip file||
+|**Non trivial counterfactual explanations**|Beyond Trivial Counterfactual Generations with Diverse Valuable Explanations|[ICLR 2021 submissions page](https://openreview.net/forum?id=KWToR-Phbrz)|||
