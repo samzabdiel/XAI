@@ -83,6 +83,7 @@
 |**concept based**|Concept Discovery for The Interpretation of Landscape Scenicness|[Downloadable File](http://scholar.google.com/scholar_url?url=https://www.mdpi.com/2504-4990/2/4/22/pdf&hl=en&sa=X&d=12192174510919644222&ei=vaqAX7fnGI_0mQGm8I2ICA&scisig=AAGBfm09-RfHy9jYkScMc35gIka4QNGK2g&nossl=1&oi=scholaralrt&hist=BCMO2BgAAAAJ:4701032511550201990:AAGBfm0MkjlI8LZjYB7rSwLsWyRhGrltyg&html=)|||If file not downloadable, search title in Google Scholar `cites TCAV`|
 |**Integrated Score CAM**|IS-CAM: Integrated Score-CAM for axiomatic-based explanations|[Arxiv](https://arxiv.org/pdf/2010.03023.pdf)|||
 |**Grad LAM**|Grad-LAM: Visualization of Deep Neural Networks for Unsupervised Learning|[EURASIP 2020](https://www.eurasip.org/Proceedings/Eusipco/Eusipco2020/pdfs/0001407.pdf)|||
+|**Cites TCAV**|Integrating Intrinsic and Extrinsic Explainability: The Relevance of Understanding Neural Networks for Human-Robot Interaction|[AAAI 2020](https://arxiv.org/pdf/2010.04602.pdf)|||
 
 ### 2021 Papers
 | Title | Paper Title                                                                                                 | Source Link                                                                                                                                                                                            | Code                                                                                          | Tags      
