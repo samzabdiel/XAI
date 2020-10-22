@@ -84,6 +84,7 @@
 |**Integrated Score CAM**|IS-CAM: Integrated Score-CAM for axiomatic-based explanations|[Arxiv](https://arxiv.org/pdf/2010.03023.pdf)|||
 |**Grad LAM**|Grad-LAM: Visualization of Deep Neural Networks for Unsupervised Learning|[EURASIP 2020](https://www.eurasip.org/Proceedings/Eusipco/Eusipco2020/pdfs/0001407.pdf)|||
 |**Cites TCAV**|Integrating Intrinsic and Extrinsic Explainability: The Relevance of Understanding Neural Networks for Human-Robot Interaction|[AAAI 2020](https://arxiv.org/pdf/2010.04602.pdf)|||
+|**Attribution**|Learning Propagation Rules for Attribution Map Generation|[Arxiv](https://arxiv.org/pdf/2010.07210.pdf)|||
 
 ### 2021 Papers
 | Title | Paper Title                                                                                                 | Source Link                                                                                                                                                                                            | Code                                                                                          | Tags      
