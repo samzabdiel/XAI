@@ -102,3 +102,4 @@
 |**Attention not Explanation**|Why is Attention Not So Interpretable?|[ICLR 2021 submissions page](https://openreview.net/forum?id=pQhnag-dIt)|||
 |**Ablation Saliency**|Ablation Path Saliency|[ICLR 2021 submissions page](https://openreview.net/forum?id=0gfSzsRDZFw)|||
 |**Explainable Outlier Detection**|Explainable Deep One-Class Classification|[ICLR 2021 submissions page](https://openreview.net/forum?id=A5VV3UyIQz)|||
+|**XAI without approximation**|Explainable AI Wthout Interpretable Model|[Arxiv](https://arxiv.org/pdf/2009.13996.pdf)|||
