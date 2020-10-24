@@ -85,6 +85,8 @@
 |**Grad LAM**|Grad-LAM: Visualization of Deep Neural Networks for Unsupervised Learning|[EURASIP 2020](https://www.eurasip.org/Proceedings/Eusipco/Eusipco2020/pdfs/0001407.pdf)|||
 |**Cites TCAV**|Integrating Intrinsic and Extrinsic Explainability: The Relevance of Understanding Neural Networks for Human-Robot Interaction|[AAAI 2020](https://arxiv.org/pdf/2010.04602.pdf)|||
 |**Attribution**|Learning Propagation Rules for Attribution Map Generation|[Arxiv](https://arxiv.org/pdf/2010.07210.pdf)|||
+|**Zoom CAM**|Zoom-CAM: Generating Fine-grained Pixel Annotations from Image Labels|[Arxiv](https://arxiv.org/pdf/2010.08644.pdf)||`must read before modularity proposal`|
+|**Masking based saliency maps investigation**|INVESTIGATING AND SIMPLIFYING MASKING-BASED SALIENCY MAP METHODS FOR MODEL INTERPRETABILITY|[Arxiv](https://arxiv.org/pdf/2010.09750.pdf)|[PyTorch](https://github.com/zphang/saliency_investigation)||
 
 ### 2021 Papers
 | Title | Paper Title                                                                                                 | Source Link                                                                                                                                                                                            | Code                                                                                          | Tags      
