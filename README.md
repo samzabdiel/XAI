@@ -92,6 +92,7 @@
 |**Survey - Counterfactual explanations**|Counterfactual Explanations for Machine Learning: A Review|[Arxiv](https://arxiv.org/pdf/2010.10596.pdf)|||
 |**Standardised Explainability**|The Need for Standardised Explainability|[ICML 2020 Workshop](https://arxiv.org/pdf/2010.11273.pdf)|||
 |**CME**|Now You See Me (CME): Concept-based Model Extraction|[CIKM 2020 workshop](https://arxiv.org/pdf/2010.13233.pdf)|[sklearn](https://github.com/dmitrykazhdan/CME)||
+|**Q FIT**|Q-FIT: The Quantifiable Feature Importance Technique for Explainable Machine Learning|[Arxiv](https://arxiv.org/pdf/2010.13872.pdf)|||
 
 ### 2021 Papers
 | Title | Paper Title                                                                                                 | Source Link                                                                                                                                                                                            | Code                                                                                          | Tags      
