@@ -94,6 +94,7 @@
 |**CME**|Now You See Me (CME): Concept-based Model Extraction|[CIKM 2020 workshop](https://arxiv.org/pdf/2010.13233.pdf)|[sklearn](https://github.com/dmitrykazhdan/CME)||
 |**Q FIT**|Q-FIT: The Quantifiable Feature Importance Technique for Explainable Machine Learning|[Arxiv](https://arxiv.org/pdf/2010.13872.pdf)|||
 |**Outside black box**|Learning outside the Black-Box: The pursuit of interpretable models|[NeurIPS 2020](https://vanderschaar-lab.com/papers/NeurIPS2020_Symbolic_Pursuit.pdf)|[sklearn](https://github.com/JonathanCrabbe/Symbolic-Pursuit)||
+|**Discrete Mask**|Interpreting Image Classifiers by Generating Discrete Masks|[IEEE - PAMI](https://ieeexplore.ieee.org/abstract/document/9214476)|||
 
 ### 2021 Papers
 | Title | Paper Title                                                                                                 | Source Link                                                                                                                                                                                            | Code                                                                                          | Tags      
