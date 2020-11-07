@@ -93,6 +93,7 @@
 |**Standardised Explainability**|The Need for Standardised Explainability|[ICML 2020 Workshop](https://arxiv.org/pdf/2010.11273.pdf)|||
 |**CME**|Now You See Me (CME): Concept-based Model Extraction|[CIKM 2020 workshop](https://arxiv.org/pdf/2010.13233.pdf)|[sklearn](https://github.com/dmitrykazhdan/CME)||
 |**Q FIT**|Q-FIT: The Quantifiable Feature Importance Technique for Explainable Machine Learning|[Arxiv](https://arxiv.org/pdf/2010.13872.pdf)|||
+|**Outside black box**|Learning outside the Black-Box: The pursuit of interpretable models|[NeurIPS 2020](https://vanderschaar-lab.com/papers/NeurIPS2020_Symbolic_Pursuit.pdf)|[sklearn](https://github.com/JonathanCrabbe/Symbolic-Pursuit)||
 
 ### 2021 Papers
 | Title | Paper Title                                                                                                 | Source Link                                                                                                                                                                                            | Code                                                                                          | Tags      
@@ -119,3 +120,4 @@
 |**Ablation Saliency**|Ablation Path Saliency|[ICLR 2021 submissions page](https://openreview.net/forum?id=0gfSzsRDZFw)|||
 |**Explainable Outlier Detection**|Explainable Deep One-Class Classification|[ICLR 2021 submissions page](https://openreview.net/forum?id=A5VV3UyIQz)|||
 |**XAI without approximation**|Explainable AI Wthout Interpretable Model|[Arxiv](https://arxiv.org/pdf/2009.13996.pdf)|||
+|**Learning theoretic Local Interpretability**|A LEARNING THEORETIC PERSPECTIVE ON LOCAL EXPLAINABILITY|[Arxiv](https://arxiv.org/pdf/2011.01205.pdf)|||
