@@ -95,6 +95,8 @@
 |**Q FIT**|Q-FIT: The Quantifiable Feature Importance Technique for Explainable Machine Learning|[Arxiv](https://arxiv.org/pdf/2010.13872.pdf)|||
 |**Outside black box**|Learning outside the Black-Box: The pursuit of interpretable models|[NeurIPS 2020](https://vanderschaar-lab.com/papers/NeurIPS2020_Symbolic_Pursuit.pdf)|[sklearn](https://github.com/JonathanCrabbe/Symbolic-Pursuit)||
 |**Discrete Mask**|Interpreting Image Classifiers by Generating Discrete Masks|[IEEE - PAMI](https://ieeexplore.ieee.org/abstract/document/9214476)|||
+|**Contrastive explanations**|Learning Global Transparent Models Consistent with Local Contrastive Explanations|[NeurIPS 2020](https://proceedings.neurips.cc/paper/2020/file/24aef8cb3281a2422a59b51659f1ad2e-Paper.pdf)|||
+|**Empirical study of Ideal Explanations**|How Can I Explain This to You? An Empirical Study of Deep Neural Network Explanation Methods|[NeurIPS 2020](https://proceedings.neurips.cc/paper/2020/file/2c29d89cc56cdb191c60db2f0bae796b-Paper.pdf)|[tensorflow 1.15](https://github.com/nesl/Explainability-Study)|[Example based matching library](https://github.com/nesl/ExMatchina)|
 
 ### 2021 Papers
 | Title | Paper Title                                                                                                 | Source Link                                                                                                                                                                                            | Code                                                                                          | Tags      
