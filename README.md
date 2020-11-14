@@ -101,6 +101,7 @@
 |**Concept based posthoc**|ProtoViewer: Visual Interpretation and Diagnostics of Deep Neural Networks with Factorized Prototypes|[Paper](https://ieeevis.b-cdn.net/vis_2020/pdfs/s-short-1226.pdf)||`refer human subject experiments`|
 |**Shapley Flow**|Shapley Flow: A Graph-based Approach to Interpreting Model Predictions|[Arxiv](https://arxiv.org/pdf/2010.14592.pdf)|||
 |**Attention Vs Saliency and Beyond**|The elephant in the interpretability room: Why use attention as explanation when we have saliency methods?|[Arxiv](https://arxiv.org/pdf/2010.05607.pdf)|||
+|**Unification of removal methods**|Feature Removal Is A Unifying Principle For Model Explanation Methods|[NeurIPS 2020 workshop](https://arxiv.org/pdf/2011.03623.pdf)||`from the authors of SHAP`|
 
 ### 2021 Papers
 | Title | Paper Title                                                                                                 | Source Link                                                                                                                                                                                            | Code                                                                                          | Tags      
