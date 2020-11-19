@@ -102,6 +102,8 @@
 |**Shapley Flow**|Shapley Flow: A Graph-based Approach to Interpreting Model Predictions|[Arxiv](https://arxiv.org/pdf/2010.14592.pdf)|||
 |**Attention Vs Saliency and Beyond**|The elephant in the interpretability room: Why use attention as explanation when we have saliency methods?|[Arxiv](https://arxiv.org/pdf/2010.05607.pdf)|||
 |**Unification of removal methods**|Feature Removal Is A Unifying Principle For Model Explanation Methods|[NeurIPS 2020 workshop](https://arxiv.org/pdf/2011.03623.pdf)||`from the authors of SHAP`|
+|**Robust and Stable Black Box Explanations**|Robust and Stable Black Box Explanations|[ICML 2020](https://arxiv.org/pdf/2011.06169.pdf)||`hima lakkaraju`|
+|**Debugging test**|Debugging Tests for Model Explanations|[Arxiv](https://arxiv.org/pdf/2011.05429.pdf)|||
 
 ### 2021 Papers
 | Title | Paper Title                                                                                                 | Source Link                                                                                                                                                                                            | Code                                                                                          | Tags      
@@ -129,3 +131,4 @@
 |**Explainable Outlier Detection**|Explainable Deep One-Class Classification|[ICLR 2021 submissions page](https://openreview.net/forum?id=A5VV3UyIQz)|||
 |**XAI without approximation**|Explainable AI Wthout Interpretable Model|[Arxiv](https://arxiv.org/pdf/2009.13996.pdf)|||
 |**Learning theoretic Local Interpretability**|A LEARNING THEORETIC PERSPECTIVE ON LOCAL EXPLAINABILITY|[Arxiv](https://arxiv.org/pdf/2011.01205.pdf)|||
+|**GANMEX**|GANMEX: ONE-VS-ONE ATTRIBUTIONS USING GAN-BASED MODEL EXPLAINABILITY|[Arxiv](https://arxiv.org/pdf/2011.06015.pdf)|||
