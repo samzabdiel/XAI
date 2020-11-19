@@ -104,6 +104,7 @@
 |**Unification of removal methods**|Feature Removal Is A Unifying Principle For Model Explanation Methods|[NeurIPS 2020 workshop](https://arxiv.org/pdf/2011.03623.pdf)||`from the authors of SHAP`|
 |**Robust and Stable Black Box Explanations**|Robust and Stable Black Box Explanations|[ICML 2020](https://arxiv.org/pdf/2011.06169.pdf)||`hima lakkaraju`|
 |**Debugging test**|Debugging Tests for Model Explanations|[Arxiv](https://arxiv.org/pdf/2011.05429.pdf)|||
+|**AISTATS 2020 submission**|Ensuring Actionable Recourse via Adversarial Training|[Arxiv](https://arxiv.org/pdf/2011.06146.pdf)||`hima lakkaraju`|
 
 ### 2021 Papers
 | Title | Paper Title                                                                                                 | Source Link                                                                                                                                                                                            | Code                                                                                          | Tags      
