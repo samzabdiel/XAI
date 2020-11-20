@@ -133,3 +133,4 @@
 |**XAI without approximation**|Explainable AI Wthout Interpretable Model|[Arxiv](https://arxiv.org/pdf/2009.13996.pdf)|||
 |**Learning theoretic Local Interpretability**|A LEARNING THEORETIC PERSPECTIVE ON LOCAL EXPLAINABILITY|[Arxiv](https://arxiv.org/pdf/2011.01205.pdf)|||
 |**GANMEX**|GANMEX: ONE-VS-ONE ATTRIBUTIONS USING GAN-BASED MODEL EXPLAINABILITY|[Arxiv](https://arxiv.org/pdf/2011.06015.pdf)|||
+|**Evaluating Local Explanations**|Evaluating local explanation methods on ground truth|[Artificial Intelligence Journal, Elsevier] (https://www.sciencedirect.com/science/article/pii/S0004370220301776)|[sklearn](https://github.com/riccotti/SyntheticExplanationGenerator)||
