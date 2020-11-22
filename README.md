@@ -108,6 +108,7 @@
 |**Layer wise explanation**|Investigating Learning in Deep Neural Networks using Layer-Wise Weight Change|[ResearchGate](https://www.researchgate.net/profile/Ayush_Manish_Agrawal2/publication/345788270_Investigating_Learning_in_Deep_Neural_Networks_using_Layer-Wise_Weight_Change/links/5fadf74d4585150781136ac6/Investigating-Learning-in-Deep-Neural-Networks-using-Layer-Wise-Weight-Change.pdf)|||
 |**cites TCAV**|Debiasing Convolutional Neural Networks via Meta Orthogonalization|[Arxiv](https://arxiv.org/pdf/2011.07453.pdf)|Code page not found||
 |**Introducing concepts**|SeXAI: Introducing Concepts into Black Boxes for Explainable Artificial Intelligence|[Paper](http://ceur-ws.org/Vol-2742/paper4.pdf)|[Tensorflow 1.4](https://github.com/ivanDonadello/Food-Categories-Classification)||
+|**Additive explainers**|Learning simplified functions to understand|[Paper](http://ceur-ws.org/Vol-2742/paper2.pdf)|||
 
 ### 2021 Papers
 | Title | Paper Title                                                                                                 | Source Link                                                                                                                                                                                            | Code                                                                                          | Tags      
