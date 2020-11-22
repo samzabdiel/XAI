@@ -110,6 +110,7 @@
 |**Introducing concepts**|SeXAI: Introducing Concepts into Black Boxes for Explainable Artificial Intelligence|[Paper](http://ceur-ws.org/Vol-2742/paper4.pdf)|[Tensorflow 1.4](https://github.com/ivanDonadello/Food-Categories-Classification)||
 |**Additive explainers**|Learning simplified functions to understand|[Paper](http://ceur-ws.org/Vol-2742/paper2.pdf)|||
 
+
 ### 2021 Papers
 | Title | Paper Title                                                                                                 | Source Link                                                                                                                                                                                            | Code                                                                                          | Tags      
 | ------------ | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
@@ -138,3 +139,4 @@
 |**Learning theoretic Local Interpretability**|A LEARNING THEORETIC PERSPECTIVE ON LOCAL EXPLAINABILITY|[Arxiv](https://arxiv.org/pdf/2011.01205.pdf)|||
 |**GANMEX**|GANMEX: ONE-VS-ONE ATTRIBUTIONS USING GAN-BASED MODEL EXPLAINABILITY|[Arxiv](https://arxiv.org/pdf/2011.06015.pdf)|||
 |**Evaluating Local Explanations**|Evaluating local explanation methods on ground truth|[Artificial Intelligence Journal Elsevier](https://www.sciencedirect.com/science/article/pii/S0004370220301776)|[sklearn](https://github.com/riccotti/SyntheticExplanationGenerator)||
+|**Structured Attention Graphs**|Structured Attention Graphs for Understanding Deep Image Classifications|[AAAI 2021](https://arxiv.org/pdf/2011.06733.pdf)||see how close to MACE|
