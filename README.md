@@ -111,7 +111,8 @@
 |**Additive explainers**|Learning simplified functions to understand|[Paper](http://ceur-ws.org/Vol-2742/paper2.pdf)|||
 |**BIN**|Born Identity Network: Multi-way Counterfactual Map Generation to Explain a Classifier’s Decision|[Arxiv](https://arxiv.org/pdf/2011.10381.pdf)|[Tensorflow 2.2](https://github.com/ksoh97/BIN)|`counterfactual explanations`|
 |**Explantion using Generative models**|Explaining image classifiers by removing input features using generative models|[ACCV 2020](https://openaccess.thecvf.com/content/ACCV2020/papers/Agarwal_Explaining_image_classifiers_by_removing_input_features_using_generative_models_ACCV_2020_paper.pdf)|[Tensorflow 1.12 & Pytorch 1.1](https://github.com/anguyen8/generative-attribution-methods)|Nguyen's paper|
-
+|**Action Recognition Explanation**|Play Fair: Frame Attributions in Video Models|[ACCV 2020](https://openaccess.thecvf.com/content/ACCV2020/papers/Price_Play_Fair_Frame_Contributions_in_Video_Models_ACCV_2020_paper.pdf)|[PyTorch](https://github.com/willprice/play-fair)||
+|**Concepts in VQA**|Interpretable Visual Reasoning via Induced Symbolic Space|[Arxiv](https://arxiv.org/pdf/2011.11603.pdf)|[Code not yet updated, just repository created](https://github.com/SHI-Labs/Interpretable-Visual-Reasoning)||
 
 ### 2021 Papers
 | Title | Paper Title                                                                                                 | Source Link                                                                                                                                                                                            | Code                                                                                          | Tags      
