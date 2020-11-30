@@ -113,6 +113,9 @@
 |**Explantion using Generative models**|Explaining image classifiers by removing input features using generative models|[ACCV 2020](https://openaccess.thecvf.com/content/ACCV2020/papers/Agarwal_Explaining_image_classifiers_by_removing_input_features_using_generative_models_ACCV_2020_paper.pdf)|[Tensorflow 1.12 & Pytorch 1.1](https://github.com/anguyen8/generative-attribution-methods)|Nguyen's paper|
 |**Action Recognition Explanation**|Play Fair: Frame Attributions in Video Models|[ACCV 2020](https://openaccess.thecvf.com/content/ACCV2020/papers/Price_Play_Fair_Frame_Contributions_in_Video_Models_ACCV_2020_paper.pdf)|[PyTorch](https://github.com/willprice/play-fair)||
 |**Concepts in VQA**|Interpretable Visual Reasoning via Induced Symbolic Space|[Arxiv](https://arxiv.org/pdf/2011.11603.pdf)|[Code not yet updated, just repository created](https://github.com/SHI-Labs/Interpretable-Visual-Reasoning)||
+|**Recourses**|Beyond Individualized Recourse: Interpretable and Interactive Summaries of Actionable Recourses|[NeurIPS 2020](https://proceedings.neurips.cc//paper/2020/file/8ee7730e97c67473a424ccfeff49ab20-Paper.pdf)||`hima lakkaraju`|
+|**Feature Importance of CNN**|Measuring Feature Importance of Convolutional Neural Networks|[IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9244164)|||
+
 
 ### 2021 Papers
 | Title | Paper Title                                                                                                 | Source Link                                                                                                                                                                                            | Code                                                                                          | Tags      
