@@ -115,6 +115,9 @@
 |**Concepts in VQA**|Interpretable Visual Reasoning via Induced Symbolic Space|[Arxiv](https://arxiv.org/pdf/2011.11603.pdf)|[Code not yet updated, just repository created](https://github.com/SHI-Labs/Interpretable-Visual-Reasoning)||
 |**Recourses**|Beyond Individualized Recourse: Interpretable and Interactive Summaries of Actionable Recourses|[NeurIPS 2020](https://proceedings.neurips.cc//paper/2020/file/8ee7730e97c67473a424ccfeff49ab20-Paper.pdf)||`hima lakkaraju`|
 |**Feature Importance of CNN**|Measuring Feature Importance of Convolutional Neural Networks|[IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9244164)|||
+|**Causal Inference**|Causal inference using deep neural networks|[Arxiv](https://arxiv.org/pdf/2011.12508.pdf)|[Keras](https://github.com/xyvivian/causal_discovery_with_CNN)||
+|**Match up**|Match Them Up: Visually Explainable Few-shot Image Classification|[Arxiv](https://arxiv.org/pdf/2011.12527.pdf)|[PyTorch](https://github.com/wbw520/MTUNet)||
+|**Right for the Right Concept**|Right for the Right Concept: Revising Neuro-Symbolic Concepts by Interacting with their Explanations|[Arxiv](https://arxiv.org/pdf/2011.12854.pdf)||
 
 
 ### 2021 Papers
