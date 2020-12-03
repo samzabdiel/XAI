@@ -120,6 +120,7 @@
 |**Right for the Right Concept**|Right for the Right Concept: Revising Neuro-Symbolic Concepts by Interacting with their Explanations|[Arxiv](https://arxiv.org/pdf/2011.12854.pdf)||
 |**MALC**|Transparency Promotion with Model-Agnostic Linear Competitors|[ICML 2020](http://proceedings.mlr.press/v119/rafique20a/rafique20a.pdf)|||
 |**Shapley Taylor Index**|The Shapley Taylor Interaction Index|[ICML 2020](http://proceedings.mlr.press/v119/sundararajan20a/sundararajan20a.pdf)|||
+|**Concept based explanation + user feedback**|Teaching the Machine to Explain Itself using Domain Knowledge|[Openreview](https://openreview.net/pdf/47341095c0d591a6b8c51da0e9dab58076b003c6.pdf)|||
 
 
 ### 2021 Papers
