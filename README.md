@@ -124,6 +124,9 @@
 |**Counterfactual produces Adversarial**|Semantics and explanation: why counterfactual explanations produce adversarial examples in deep neural networks|[AIJ submission](https://kieranbrowne.com/publications/semantics_and_explanation.pdf)|||
 |**MEME**|MEME: Generating RNN Model Explanations via Model Extraction|[OpenReview](https://openreview.net/pdf/541a2c924c4a5736c60425d247e64ce2c0b3041b.pdf)|[Keras](https://github.com/dmitrykazhdan/MEME-RNN-XAI)|RNN specific LIME, see if any improvisations for MACE comes from here|
 |**ProtoPShare**|ProtoPShare: Prototype Sharing for Interpretable Image Classification and Similarity Discovery|[Arxiv](https://arxiv.org/pdf/2011.14340.pdf)||Improved ProtoPNet (This looks like that)|
+|**RANCC**|RANCC: Rationalizing Neural Networks via Concept Clustering|[ACL](https://www.aclweb.org/anthology/2020.coling-main.286.pdf)|[Tensorflow 1.x](https://www.aclweb.org/anthology/2020.coling-main.286.pdf)||
+|**EAN**|Efficient Attention Network: Accelerate Attention by Searching Where to Plug|[Arxiv](https://arxiv.org/pdf/2011.14058.pdf)|[PyTorch](https://github.com/gbup-group/EAN-efficient-attention-network)||
+
 
 ### 2021 Papers
 | Title | Paper Title                                                                                                 | Source Link                                                                                                                                                                                            | Code                                                                                          | Tags      
