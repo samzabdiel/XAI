@@ -123,6 +123,7 @@
 |**Concept based explanation + user feedback**|Teaching the Machine to Explain Itself using Domain Knowledge|[Openreview](https://openreview.net/pdf/47341095c0d591a6b8c51da0e9dab58076b003c6.pdf)|||
 |**Counterfactual produces Adversarial**|Semantics and explanation: why counterfactual explanations produce adversarial examples in deep neural networks|[AIJ submission](https://kieranbrowne.com/publications/semantics_and_explanation.pdf)|||
 |**MEME**|MEME: Generating RNN Model Explanations via Model Extraction|[OpenReview](https://openreview.net/pdf/541a2c924c4a5736c60425d247e64ce2c0b3041b.pdf)|[Keras](https://github.com/dmitrykazhdan/MEME-RNN-XAI)|RNN specific LIME, see if any improvisations for MACE comes from here|
+|**ProtoPShare**|ProtoPShare: Prototype Sharing for Interpretable Image Classification and Similarity Discovery|[Arxiv](https://arxiv.org/pdf/2011.14340.pdf)||Improved ProtoPNet (This looks like that)|
 
 ### 2021 Papers
 | Title | Paper Title                                                                                                 | Source Link                                                                                                                                                                                            | Code                                                                                          | Tags      
