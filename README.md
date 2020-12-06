@@ -101,7 +101,7 @@
 |**Concept based posthoc**|ProtoViewer: Visual Interpretation and Diagnostics of Deep Neural Networks with Factorized Prototypes|[Paper](https://ieeevis.b-cdn.net/vis_2020/pdfs/s-short-1226.pdf)||`refer human subject experiments`|
 |**Shapley Flow**|Shapley Flow: A Graph-based Approach to Interpreting Model Predictions|[Arxiv](https://arxiv.org/pdf/2010.14592.pdf)|||
 |**Attention Vs Saliency and Beyond**|The elephant in the interpretability room: Why use attention as explanation when we have saliency methods?|[Arxiv](https://arxiv.org/pdf/2010.05607.pdf)|||
-|**Unification of removal methods**|Feature Removal Is A Unifying Principle For Model Explanation Methods|[NeurIPS 2020 workshop](https://arxiv.org/pdf/2011.03623.pdf)||`from the authors of SHAP`|
+|**Unification of removal methods**|Feature Removal Is A Unifying Principle For Model Explanation Methods|[NeurIPS 2020 workshop](https://arxiv.org/pdf/2011.03623.pdf)|[PyTorch](https://github.com/iancovert/removal-explanations)|`from the authors of SHAP`[Extended Arxiv version](https://arxiv.org/pdf/2011.14878.pdf)|
 |**Robust and Stable Black Box Explanations**|Robust and Stable Black Box Explanations|[ICML 2020](https://arxiv.org/pdf/2011.06169.pdf)||`hima lakkaraju`|
 |**Debugging test**|Debugging Tests for Model Explanations|[Arxiv](https://arxiv.org/pdf/2011.05429.pdf)|||
 |**AISTATS 2020 submission**|Ensuring Actionable Recourse via Adversarial Training|[Arxiv](https://arxiv.org/pdf/2011.06146.pdf)||`hima lakkaraju`|
@@ -126,6 +126,9 @@
 |**ProtoPShare**|ProtoPShare: Prototype Sharing for Interpretable Image Classification and Similarity Discovery|[Arxiv](https://arxiv.org/pdf/2011.14340.pdf)||Improved ProtoPNet (This looks like that)|
 |**RANCC**|RANCC: Rationalizing Neural Networks via Concept Clustering|[ACL](https://www.aclweb.org/anthology/2020.coling-main.286.pdf)|[Tensorflow 1.x](https://www.aclweb.org/anthology/2020.coling-main.286.pdf)||
 |**EAN**|Efficient Attention Network: Accelerate Attention by Searching Where to Plug|[Arxiv](https://arxiv.org/pdf/2011.14058.pdf)|[PyTorch](https://github.com/gbup-group/EAN-efficient-attention-network)||
+|**LIME Analysis**|Why model why? Assessing the strengths and limitations of LIME|[Arxiv](https://arxiv.org/pdf/2012.00093.pdf)|[sklearn](https://github.com/jdieber/WhyModelWhy)||
+|**Rethink positive aggregation**|Rethinking Positive Aggregation and Propagation of Gradients in Gradient-based Saliency Methods|[ICML 2020 workshop WHI](https://arxiv.org/pdf/2012.00362.pdf)|||
+|**Pixel wise interpretation metric**|A Metric to Compare Pixel-wise Interpretation Methods for Neural Networks|[IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9268152)|||
 
 
 ### 2021 Papers
