@@ -129,7 +129,7 @@
 |**LIME Analysis**|Why model why? Assessing the strengths and limitations of LIME|[Arxiv](https://arxiv.org/pdf/2012.00093.pdf)|[sklearn](https://github.com/jdieber/WhyModelWhy)||
 |**Rethink positive aggregation**|Rethinking Positive Aggregation and Propagation of Gradients in Gradient-based Saliency Methods|[ICML 2020 workshop WHI](https://arxiv.org/pdf/2012.00362.pdf)|||
 |**Pixel wise interpretation metric**|A Metric to Compare Pixel-wise Interpretation Methods for Neural Networks|[IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9268152)|||
-
+|**Latent space debiasing**|Fair Attribute Classification through Latent Space De-biasing|[Arxiv](https://arxiv.org/pdf/2012.01469.pdf)|[PyTorch](https://github.com/princetonvisualai/gan-debiasing)||
 
 
 ### 2021 Papers
