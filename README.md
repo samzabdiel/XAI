@@ -131,6 +131,7 @@
 |**Pixel wise interpretation metric**|A Metric to Compare Pixel-wise Interpretation Methods for Neural Networks|[IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9268152)|||
 
 
+
 ### 2021 Papers
 | Title | Paper Title                                                                                                 | Source Link                                                                                                                                                                                            | Code                                                                                          | Tags      
 | ------------ | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
@@ -161,3 +162,4 @@
 |**Evaluating Local Explanations**|Evaluating local explanation methods on ground truth|[Artificial Intelligence Journal Elsevier](https://www.sciencedirect.com/science/article/pii/S0004370220301776)|[sklearn](https://github.com/riccotti/SyntheticExplanationGenerator)||
 |**Structured Attention Graphs**|Structured Attention Graphs for Understanding Deep Image Classifications|[AAAI 2021](https://arxiv.org/pdf/2011.06733.pdf)||see how close to MACE|
 |**Ground truth explanations**|Data Representing Ground-Truth Explanations to Evaluate XAI Methods|[AAAI 2021](https://arxiv.org/pdf/2011.09892.pdf)|[sklearn](https://github.com/Rosinaweber/DataRepresentingGroundTruthExplanations)|trained models available in their github repository|
+|**AGF**|Visualization of Supervised and Self-Supervised Neural Networks via Attribution Guided Factorization|[AAAI 2021](https://arxiv.org/pdf/2012.02166.pdf)|[PyTorch](https://github.com/shirgur/AGFVisualization)||
