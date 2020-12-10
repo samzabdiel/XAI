@@ -131,6 +131,7 @@
 |**Pixel wise interpretation metric**|A Metric to Compare Pixel-wise Interpretation Methods for Neural Networks|[IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9268152)|||
 |**Latent space debiasing**|Fair Attribute Classification through Latent Space De-biasing|[Arxiv](https://arxiv.org/pdf/2012.01469.pdf)|[PyTorch](https://github.com/princetonvisualai/gan-debiasing)||
 |**Explanation - Teacher Student**|Evaluating Explanations: How much do explanations from the teacher aid students?|[Arxiv](https://arxiv.org/pdf/2012.00893.pdf)|||
+|**Neural Prototype Trees**|Neural Prototype Trees for Interpretable Fine-grained Image Recognition|[Arxiv](https://arxiv.org/pdf/2012.02046.pdf)|[PyTorch](https://github.com/M-Nauta/ProtoTree)|same group of This looks like that + relevance|
 
 
 ### 2021 Papers
