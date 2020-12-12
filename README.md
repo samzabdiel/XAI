@@ -136,6 +136,7 @@
 |**Concepts on Tabular data**|Learning Interpretable Concept-Based Models with Human Feedback|[Arxiv](https://arxiv.org/pdf/2012.02898.pdf)|||
 |**BayLIME**|BayLIME: Bayesian Local Interpretable Model-Agnostic Explanations|[Arxiv](https://arxiv.org/pdf/2012.03058.pdf)|[Keras](https://github.com/x-y-zhao/BayLime)||
 |**PPI**|Proactive Pseudo-Intervention: Causally Informed Contrastive Learning For Interpretable Vision Models|[Arxiv](https://arxiv.org/pdf/2012.03369.pdf)|Anonymous PyTorch code link given||
+|**Generalized distillation**|Understanding Interpretability by generalized distillation in Supervised Classification|[AAAI 2021 submission](https://arxiv.org/pdf/2012.03089.pdf)|Code will be public upon acceptance||
 
 ### 2021 Papers
 | Title | Paper Title                                                                                                 | Source Link                                                                                                                                                                                            | Code                                                                                          | Tags      
