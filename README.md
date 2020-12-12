@@ -133,6 +133,9 @@
 |**Explanation - Teacher Student**|Evaluating Explanations: How much do explanations from the teacher aid students?|[Arxiv](https://arxiv.org/pdf/2012.00893.pdf)|||
 |**Neural Prototype Trees**|Neural Prototype Trees for Interpretable Fine-grained Image Recognition|[Arxiv](https://arxiv.org/pdf/2012.02046.pdf)|[PyTorch](https://github.com/M-Nauta/ProtoTree)|same group of This looks like that + relevance|
 |**FixOut**|FixOut: an ensemble approach to fairer models|[Paper](https://hal.archives-ouvertes.fr/hal-03033181/file/_shared__IDA_2021___FixOut__an_ensemble_approach_to_fairer_models%20%281%29.pdf)|||
+|**Concepts on Tabular data**|Learning Interpretable Concept-Based Models with Human Feedback|[Arxiv](https://arxiv.org/pdf/2012.02898.pdf)|||
+|**BayLIME**|BayLIME: Bayesian Local Interpretable Model-Agnostic Explanations|[Arxiv](https://arxiv.org/pdf/2012.03058.pdf)|[Keras](https://github.com/x-y-zhao/BayLime)||
+|**PPI**|Proactive Pseudo-Intervention: Causally Informed Contrastive Learning For Interpretable Vision Models|[Arxiv](https://arxiv.org/pdf/2012.03369.pdf)|Anonymous PyTorch code link given||
 
 ### 2021 Papers
 | Title | Paper Title                                                                                                 | Source Link                                                                                                                                                                                            | Code                                                                                          | Tags      
