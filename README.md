@@ -142,6 +142,8 @@
 |**Evaluation metrics**|Evaluating Explainable Methods for Predictive Process Analytics: A Functionally-Grounded Approach|[Arxiv](https://arxiv.org/pdf/2012.04218.pdf)|[sklearn](https://github.com/Mythreyi-V/PPA_Evaluation)||
 |**Explanations based on train set**|Explainable Artificial Intelligence: How Subsets of the Training Data Affect a Prediction|[Arxiv](https://arxiv.org/pdf/2012.03625.pdf)|||
 |**DAX**|DAX: Deep Argumentative eXplanation for Neural Networks|[Arxiv](https://arxiv.org/pdf/2012.05766.pdf)|||
+|**Debiased CAM**|Debiased-CAM for bias-agnostic faithful visual explanations of deep convolutional networks|[Arxiv](https://arxiv.org/pdf/2012.05567.pdf)|[Tensorflow 2.1.0](https://github.com/nus-ubicomplab/debiased-cam)|lot of human subject experiments found|
+|**Bias via explanation**|Investigating Bias in Image Classification using Model Explanations|[ICML WHI 2020](https://arxiv.org/pdf/2012.05463.pdf)|||
 
 ### 2021 Papers
 | Title | Paper Title                                                                                                 | Source Link                                                                                                                                                                                            | Code                                                                                          | Tags      
