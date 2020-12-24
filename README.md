@@ -183,3 +183,4 @@
 |**Ground truth explanations**|Data Representing Ground-Truth Explanations to Evaluate XAI Methods|[AAAI 2021](https://arxiv.org/pdf/2011.09892.pdf)|[sklearn](https://github.com/Rosinaweber/DataRepresentingGroundTruthExplanations)|trained models available in their github repository|
 |**AGF**|Visualization of Supervised and Self-Supervised Neural Networks via Attribution Guided Factorization|[AAAI 2021](https://arxiv.org/pdf/2012.02166.pdf)|[PyTorch](https://github.com/shirgur/AGFVisualization)||
 |**RSP**|Interpreting Deep Neural Networks with Relative Sectional Propagation by Analyzing Comparative Gradients and Hostile Activations|[AAAI 2021](https://arxiv.org/pdf/2012.03434.pdf)|||
+|**HyDRA**|HYDRA: Hypergradient Data Relevance Analysis for Interpreting Deep Neural Networks|[AAAI 2021](http://www.boyangli.org/paper/Yuanyuan-Chen-AAAI-2021.pdf)|[PyTorch](https://github.com/cyyever/aaai_hydra_8686)||
