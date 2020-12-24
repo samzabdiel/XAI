@@ -147,6 +147,7 @@
 |**Shapley Credit Allocation**|On Shapley Credit Allocation for Interpretability|[Arxiv](https://arxiv.org/pdf/2012.05506.pdf)|||
 |**Dependency Decomposition**|Dependency Decomposition and a Reject Option for Explainable Models|[Arxiv](https://arxiv.org/pdf/2012.06523.pdf)|||
 |**Interpretation Network**|xRAI: Explainable Representations through AI|[Arxiv](https://arxiv.org/pdf/2012.06006.pdf)|||
+|**Explainable by Design**|Evolutionary Generative Contribution Mappings|[IEEE](https://ieeexplore.ieee.org/abstract/document/9283014)||`explainable by design`|
 
 ### 2021 Papers
 | Title | Paper Title                                                                                                 | Source Link                                                                                                                                                                                            | Code                                                                                          | Tags      
