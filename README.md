@@ -150,6 +150,7 @@
 |**Explainable by Design**|Evolutionary Generative Contribution Mappings|[IEEE](https://ieeexplore.ieee.org/abstract/document/9283014)||`explainable by design`|
 |**Transformer Explanation**|Transformer Interpretability Beyond Attention Visualization|[Arxiv CVPR format](https://arxiv.org/pdf/2012.09838.pdf)|[PyTorch](https://github.com/hila-chefer/Transformer-Explainability)||
 |**MANE**|MANE: Model-Agnostic Non-linear Explanations for Deep Learning Model|[IEEE](https://ieeexplore.ieee.org/abstract/document/9283900)||`see how similar to MAIRE`|
+|**Why and Why Not Explanations**|On Relating ‘Why?’ and ‘Why Not?’ Explanations|[Arxiv](https://arxiv.org/pdf/2012.11067.pdf)|[sklearn](https://github.com/alexeyignatiev/xdual)|gives theoretical relationship between feature importance and counterfactual techniques|
 
 ### 2021 Papers
 | Title | Paper Title                                                                                                 | Source Link                                                                                                                                                                                            | Code                                                                                          | Tags      
