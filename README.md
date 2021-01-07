@@ -195,3 +195,5 @@
 |**AGF**|Visualization of Supervised and Self-Supervised Neural Networks via Attribution Guided Factorization|[AAAI 2021](https://arxiv.org/pdf/2012.02166.pdf)|[PyTorch](https://github.com/shirgur/AGFVisualization)||
 |**RSP**|Interpreting Deep Neural Networks with Relative Sectional Propagation by Analyzing Comparative Gradients and Hostile Activations|[AAAI 2021](https://arxiv.org/pdf/2012.03434.pdf)|||
 |**HyDRA**|HYDRA: Hypergradient Data Relevance Analysis for Interpreting Deep Neural Networks|[AAAI 2021](http://www.boyangli.org/paper/Yuanyuan-Chen-AAAI-2021.pdf)|[PyTorch](https://github.com/cyyever/aaai_hydra_8686)||
+|**SWAG**|SWAG: Superpixels Weighted by Average Gradients for Explanations of CNNs|[WACV 2021](https://openaccess.thecvf.com/content/WACV2021/papers/Hartley_SWAG_Superpixels_Weighted_by_Average_Gradients_for_Explanations_of_CNNs_WACV_2021_paper.pdf)|||
+|**FastIF**|FASTIF: Scalable Influence Functions for Efficient Model Interpretation and Debugging|[Arxiv](https://arxiv.org/pdf/2012.15781.pdf)|[PyTorch](https://github.com/salesforce/fast-influence-functions)||
