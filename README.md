@@ -199,3 +199,4 @@
 |**FastIF**|FASTIF: Scalable Influence Functions for Efficient Model Interpretation and Debugging|[Arxiv](https://arxiv.org/pdf/2012.15781.pdf)|[PyTorch](https://github.com/salesforce/fast-influence-functions)||
 |**EVET**|EVET: Enhancing Visual Explanations of Deep Neural Networks Using Image Transformations|[WACV 2021](https://openaccess.thecvf.com/content/WACV2021/papers/Oh_EVET_Enhancing_Visual_Explanations_of_Deep_Neural_Networks_Using_Image_WACV_2021_paper.pdf)|||
 |**Local Attribution Baselines**|On Baselines for Local Feature Attributions|[AAAI 2021](https://arxiv.org/pdf/2101.00905.pdf)|[PyTorch](https://github.com/ITZuern/On-Baselines-for-Local-Feature-Attributions)||
+|**Differentiated Explanations**|Differentiated Explanation of Deep Neural Networks with Skewed Distributions|[IEEE - TPAMI journal](https://ieeexplore.ieee.org/document/9316988)|[PyTorch](https://github.com/fuweijie/DRE)||
