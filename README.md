@@ -202,3 +202,4 @@
 |**Differentiated Explanations**|Differentiated Explanation of Deep Neural Networks with Skewed Distributions|[IEEE - TPAMI journal](https://ieeexplore.ieee.org/document/9316988)|[PyTorch](https://github.com/fuweijie/DRE)||
 |**Human game based survey**|Explainable AI and Adoption of Algorithmic Advisors: an Experimental Study|[Arxiv](https://arxiv.org/pdf/2101.02555.pdf)|||
 |**Explainable by design**|Learning Semantically Meaningful Features for Interpretable Classifications|[Arxiv](https://arxiv.org/pdf/2101.03919.pdf)|||
+|**Expred**|Explain and Predict, and then Predict again|[ACM WSDM 2021](https://arxiv.org/pdf/2101.04109.pdf)|[PyTorch](https://github.com/JoshuaGhost/expred)||
