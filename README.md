@@ -208,3 +208,5 @@
 |**UCAM**|Uncertainty Class Activation Map (U-CAM) using Gradient Certainty method|[IEEE - TIP](https://purehost.bath.ac.uk/ws/portalfiles/portal/217611876/UCAM_TIP.pdf)|[Project Page](https://delta-lab-iitk.github.io/U-CAM/)|[PyTorch](https://github.com/DelTA-Lab-IITK/U-CAM)|
 |**progressive GAN explainability- smiling dataset- ICLR 2020 group**|Explaining the Black-box Smoothly - A Counterfactual Approach|[Arxiv](https://arxiv.org/pdf/2101.04230.pdf)|||
 |**Head pasted in another image - experimented**|WHAT DO DEEP NETS LEARN? CLASS-WISE PATTERNS REVEALED IN THE INPUT SPACE|[Arxiv](https://arxiv.org/pdf/2101.06898.pdf)|||
+|**Model correction**|ExplOrs Explanation Oracles and the architecture of explainability|[Paper](https://nbviewer.jupyter.org/github/rpappu/pdf-publications/blob/master/Pappu-ExplOrs-Final-2020.pdf)|||
+|**Explanations - Knowledge Representation**|A Basic Framework for Explanations in Argumentation|[IEEE](http://www.florisbex.com/papers/BorgIEEE-explanations.pdf)|||
