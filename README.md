@@ -211,3 +211,5 @@
 |**Model correction**|ExplOrs Explanation Oracles and the architecture of explainability|[Paper](https://nbviewer.jupyter.org/github/rpappu/pdf-publications/blob/master/Pappu-ExplOrs-Final-2020.pdf)|||
 |**Explanations - Knowledge Representation**|A Basic Framework for Explanations in Argumentation|[IEEE](http://www.florisbex.com/papers/BorgIEEE-explanations.pdf)|||
 |**Eigen CAM**|Eigen-CAM: Visual Explanations for Deep Convolutional Neural Networks|[Springer](https://link.springer.com/article/10.1007/s42979-021-00449-3#Sec3)|||
+|**Evaluation of Posthoc**|How can I choose an explainer? An Application-grounded Evaluation of Post-hoc Explanations|[ACM](https://arxiv.org/pdf/2101.08758.pdf)|||
+|**GLocalX**|GLocalX - From Local to Global Explanations of Black Box AI Models|[Arxiv](https://arxiv.org/pdf/2101.07685.pdf)|||
