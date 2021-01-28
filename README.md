@@ -207,3 +207,4 @@
 |**Progressive Interpretation**|An Information-theoretic Progressive Framework for Interpretation|[Arxiv](https://arxiv.org/pdf/2101.02879.pdf)|[PyTorch](https://github.com/hezq06/progressive_interpretation)||
 |**UCAM**|Uncertainty Class Activation Map (U-CAM) using Gradient Certainty method|[IEEE - TIP](https://purehost.bath.ac.uk/ws/portalfiles/portal/217611876/UCAM_TIP.pdf)|[Project Page](https://delta-lab-iitk.github.io/U-CAM/)|[PyTorch](https://github.com/DelTA-Lab-IITK/U-CAM)|
 |**progressive GAN explainability- smiling dataset- ICLR 2020 group**|Explaining the Black-box Smoothly - A Counterfactual Approach|[Arxiv](https://arxiv.org/pdf/2101.04230.pdf)|||
+|**Head pasted in another image - experimented**|WHAT DO DEEP NETS LEARN? CLASS-WISE PATTERNS REVEALED IN THE INPUT SPACE|[Arxiv](https://arxiv.org/pdf/2101.06898.pdf)|||
