@@ -213,3 +213,4 @@
 |**Eigen CAM**|Eigen-CAM: Visual Explanations for Deep Convolutional Neural Networks|[Springer](https://link.springer.com/article/10.1007/s42979-021-00449-3#Sec3)|||
 |**Evaluation of Posthoc**|How can I choose an explainer? An Application-grounded Evaluation of Post-hoc Explanations|[ACM](https://arxiv.org/pdf/2101.08758.pdf)|||
 |**GLocalX**|GLocalX - From Local to Global Explanations of Black Box AI Models|[Arxiv](https://arxiv.org/pdf/2101.07685.pdf)|||
+|**Consistent Interpretations**|Explainable Models with Consistent Interpretations|[AAAI 2021](https://www.csee.umbc.edu/~hpirsiav/papers/gc_aaai21.pdf)|||
