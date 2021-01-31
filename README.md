@@ -214,3 +214,5 @@
 |**Evaluation of Posthoc**|How can I choose an explainer? An Application-grounded Evaluation of Post-hoc Explanations|[ACM](https://arxiv.org/pdf/2101.08758.pdf)|||
 |**GLocalX**|GLocalX - From Local to Global Explanations of Black Box AI Models|[Arxiv](https://arxiv.org/pdf/2101.07685.pdf)|||
 |**Consistent Interpretations**|Explainable Models with Consistent Interpretations|[AAAI 2021](https://www.csee.umbc.edu/~hpirsiav/papers/gc_aaai21.pdf)|||
+|**SIDU**|Introducing and assessing the explainable AI (XAI) method: SIDU|[Arxiv](https://arxiv.org/pdf/2101.10710.pdf)|||
+|**cites This looks like that**|Explaining black-box classifiers using post-hoc explanations-by-example: The effect of explanations and error-rates in XAI user studies|[AIJ](https://www.sciencedirect.com/science/article/pii/S0004370221000102)|||
