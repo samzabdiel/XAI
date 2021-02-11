@@ -220,3 +220,5 @@
 |**Shape texture bias**|SHAPE OR TEXTURE: UNDERSTANDING DISCRIMINATIVE FEATURES IN CNNS|[ICLR 2021](https://arxiv.org/pdf/2101.11604.pdf)|||
 |**Class agnostic features**|THE MIND’S EYE: VISUALIZING CLASS-AGNOSTIC FEATURES OF CNNS|[Arxiv](https://arxiv.org/pdf/2101.12447.pdf)|||
 |**IBEX**|A Multi-layered Approach for Tailored Black-box Explanations|[Paper](https://hal.inria.fr/hal-03127926/document)|[Code](https://gitlab.inria.fr/chenin/ibex)||
+|**Relevant explanations**|Learning Relevant Explanations|[Paper](https://www.researchgate.net/profile/Chris_Russell17/publication/348817770_Learning_Relevant_Explanations/links/6011b0c0299bf1b33e2d33ec/Learning-Relevant-Explanations.pdf)|||
+|**Guided Zoom**|Guided Zoom: Zooming into Network Evidence to Refine Fine-grained Model Decisions|[IEEE](https://ieeexplore.ieee.org/abstract/document/9335497)|||
