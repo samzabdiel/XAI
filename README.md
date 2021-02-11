@@ -218,3 +218,5 @@
 |**cites This looks like that**|Explaining black-box classifiers using post-hoc explanations-by-example: The effect of explanations and error-rates in XAI user studies|[AIJ](https://www.sciencedirect.com/science/article/pii/S0004370221000102)|||
 |**i-Algebra**|i-Algebra: Towards Interactive Interpretability of Deep Neural Networks|[AAAI 2021](https://arxiv.org/pdf/2101.09301.pdf)|||
 |**Shape texture bias**|SHAPE OR TEXTURE: UNDERSTANDING DISCRIMINATIVE FEATURES IN CNNS|[ICLR 2021](https://arxiv.org/pdf/2101.11604.pdf)|||
+|**Class agnostic features**|THE MIND’S EYE: VISUALIZING CLASS-AGNOSTIC FEATURES OF CNNS|[Arxiv](https://arxiv.org/pdf/2101.12447.pdf)|||
+|**IBEX**|A Multi-layered Approach for Tailored Black-box Explanations|[Paper](https://hal.inria.fr/hal-03127926/document)|[Code](https://gitlab.inria.fr/chenin/ibex)||
