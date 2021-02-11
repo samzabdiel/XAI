@@ -216,4 +216,5 @@
 |**Consistent Interpretations**|Explainable Models with Consistent Interpretations|[AAAI 2021](https://www.csee.umbc.edu/~hpirsiav/papers/gc_aaai21.pdf)|||
 |**SIDU**|Introducing and assessing the explainable AI (XAI) method: SIDU|[Arxiv](https://arxiv.org/pdf/2101.10710.pdf)|||
 |**cites This looks like that**|Explaining black-box classifiers using post-hoc explanations-by-example: The effect of explanations and error-rates in XAI user studies|[AIJ](https://www.sciencedirect.com/science/article/pii/S0004370221000102)|||
-|**i-Algebra**|i-Algebra: Towards Interactive Interpretability of Deep Neural Networks|[AAAI 2021](https://arxiv.org/pdf/2101.09301.pdf)
+|**i-Algebra**|i-Algebra: Towards Interactive Interpretability of Deep Neural Networks|[AAAI 2021](https://arxiv.org/pdf/2101.09301.pdf)|||
+|**Shape texture bias**|SHAPE OR TEXTURE: UNDERSTANDING DISCRIMINATIVE FEATURES IN CNNS|[ICLR 2021](https://arxiv.org/pdf/2101.11604.pdf)|||
