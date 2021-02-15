@@ -224,3 +224,4 @@
 |**Guided Zoom**|Guided Zoom: Zooming into Network Evidence to Refine Fine-grained Model Decisions|[IEEE](https://ieeexplore.ieee.org/abstract/document/9335497)|||
 |**XAI survey**|A Survey on Understanding, Visualizations, and Explanation of Deep Neural Networks|[Arxiv](https://arxiv.org/pdf/2102.01792.pdf)|||
 |**Pattern theory**|Convolutional Neural Network Interpretability with General Pattern Theory|[Arxiv](https://arxiv.org/pdf/2102.04247.pdf)|[PyTorch](https://github.com/etjoa003/gpt)||
+|**Gaussian Process based explanations**|Bandits for Learning to Explain from Explanations|[AAAI 2021](https://arxiv.org/pdf/2102.03815.pdf)|[sklearn](https://github.com/stefanoteso/explearner-simpler)||
