@@ -232,3 +232,4 @@
 |**Integrated CAM**|INTEGRATED GRAD-CAM: SENSITIVITY-AWARE VISUAL EXPLANATION OF DEEP CONVOLUTIONAL NETWORKS VIA INTEGRATED GRADIENT-BASED SCORING|[ICASSP 2021](https://arxiv.org/pdf/2102.07805.pdf)|[PyTorch](https://github.com/smstrzd/IntegratedGradCAM)||
 |**Human study**|VitrAI - Applying Explainable AI in the Real World|[Arxiv](https://arxiv.org/pdf/2102.06518.pdf)|||
 |**Attribution Mask**|Attribution Mask: Filtering Out Irrelevant Features By Recursively Focusing Attention on Inputs of DNNs|[Arxiv](https://arxiv.org/pdf/2102.07332.pdf)|[PyTorch](https://github.com/j-pong/AttentionMask)||
+|**LIME faithfulness**|What does LIME really see in images?|[Arxiv](https://arxiv.org/pdf/2102.06307.pdf)|[Tensorflow 1.x](https://github.com/dgarreau/image_lime_theory)||
