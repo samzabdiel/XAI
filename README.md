@@ -231,3 +231,4 @@
 |**Segmentation based explanation**|Deep Co-Attention Network for Multi-View Subspace Learning|[Arxiv](https://arxiv.org/pdf/2102.07751.pdf)|[PyTorch](https://github.com/Leo02016/ANTS)||
 |**Integrated CAM**|INTEGRATED GRAD-CAM: SENSITIVITY-AWARE VISUAL EXPLANATION OF DEEP CONVOLUTIONAL NETWORKS VIA INTEGRATED GRADIENT-BASED SCORING|[ICASSP 2021](https://arxiv.org/pdf/2102.07805.pdf)|[PyTorch](https://github.com/smstrzd/IntegratedGradCAM)||
 |**Human study**|VitrAI - Applying Explainable AI in the Real World|[Arxiv](https://arxiv.org/pdf/2102.06518.pdf)|||
+|**Attribution Mask**|Attribution Mask: Filtering Out Irrelevant Features By Recursively Focusing Attention on Inputs of DNNs|[Arxiv](https://arxiv.org/pdf/2102.07332.pdf)|[PyTorch](https://github.com/j-pong/AttentionMask)||
