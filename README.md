@@ -162,6 +162,7 @@
 |**CEN**|CEN: Concept Evolution Network for Image Classification Tasks|[ACM RICAI 2020](https://dl.acm.org/doi/abs/10.1145/3438872.3439080)||`explainable by design`|
 |**Quantitative evaluation metrics**|Quantitative Evaluations on Saliency Methods: An Experimental Study|[Arxiv](https://arxiv.org/pdf/2012.15616.pdf)|||
 |**Integrating black box and Interpretable model**|IB-M: A Flexible Framework to Align an Interpretable Model and a Black-box Model|[IEEE - BIBM 2020](https://ieeexplore.ieee.org/abstract/document/9313119)|||
+|**X-GradCAM**|Axiom-based Grad-CAM: Towards Accurate Visualization and Explanation of CNNs|[BMVC 2020](https://www.bmvc2020-conference.com/assets/papers/0631.pdf)|||
 
 ### 2021 Papers
 | Title | Paper Title                                                                                                 | Source Link                                                                                                                                                                                            | Code                                                                                          | Tags      
