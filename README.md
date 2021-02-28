@@ -233,3 +233,4 @@
 |**Human study**|VitrAI - Applying Explainable AI in the Real World|[Arxiv](https://arxiv.org/pdf/2102.06518.pdf)|||
 |**Attribution Mask**|Attribution Mask: Filtering Out Irrelevant Features By Recursively Focusing Attention on Inputs of DNNs|[Arxiv](https://arxiv.org/pdf/2102.07332.pdf)|[PyTorch](https://github.com/j-pong/AttentionMask)||
 |**LIME faithfulness**|What does LIME really see in images?|[Arxiv](https://arxiv.org/pdf/2102.06307.pdf)|[Tensorflow 1.x](https://github.com/dgarreau/image_lime_theory)||
+|**Assess model reliability**|Intuitively Assessing ML Model Reliability through Example-Based Explanations and Editing Model Inputs|[Arxiv](https://arxiv.org/pdf/2102.08540.pdf)|||
