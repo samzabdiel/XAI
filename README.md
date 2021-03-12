@@ -239,3 +239,4 @@
 |**Gradients faithful?**|Do Input Gradients Highlight Discriminative Features?|[Arxiv](https://arxiv.org/pdf/2102.12781.pdf)|[PyTorch](https://github.com/harshays/inputgradients)||
 |**Untrustworthy predictions**|Identifying Untrustworthy Predictions in Neural Networks by Geometric Gradient Analysis|[Arxiv](https://arxiv.org/pdf/2102.12196.pdf)|||
 |**Explaining misclassification**|Explaining Inaccurate Predictions of Models through k-Nearest Neighbors|[Paper](https://www.scitepress.org/Papers/2021/102579/102579.pdf)||cites Oscar Li AAAI 2018 prototypes paper|
+|**Explanations inside predictions**|Have We Learned to Explain?: How Interpretability Methods Can Learn to Encode Predictions in their Interpretations|[AISTATS 2021](https://arxiv.org/pdf/2103.01890.pdf)|||
