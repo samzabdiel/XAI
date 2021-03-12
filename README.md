@@ -237,3 +237,4 @@
 |**Assess model reliability**|Intuitively Assessing ML Model Reliability through Example-Based Explanations and Editing Model Inputs|[Arxiv](https://arxiv.org/pdf/2102.08540.pdf)|||
 |**Perturbation + Gradient unification**|Towards the Unification and Robustness of Perturbation and Gradient Based Explanations|[Arxiv](https://arxiv.org/pdf/2102.10618.pdf)||`hima lakkaraju`|
 |**Gradients faithful?**|Do Input Gradients Highlight Discriminative Features?|[Arxiv](https://arxiv.org/pdf/2102.12781.pdf)|[PyTorch](https://github.com/harshays/inputgradients)||
+|**Untrustworthy predictions**|Identifying Untrustworthy Predictions in Neural Networks by Geometric Gradient Analysis|[Arxiv](https://arxiv.org/pdf/2102.12196.pdf)|||
