@@ -243,3 +243,4 @@
 |**Layerwise interpretation**|LAYER-WISE INTERPRETATION OF DEEP NEURAL NETWORKS USING IDENTITY INITIALIZATION|[Arxiv](https://arxiv.org/pdf/2102.13333.pdf)|||
 |**Visualizing Rule Sets**|Visualizing Rule Sets: Exploration and Validation of a Design Space|[Arxiv](https://arxiv.org/pdf/2103.01022.pdf)|[PyTorch](https://github.com/nyuvis/rule_empirical_study)||
 |**Human experiments**|Are Explanations Helpful? A Comparative Study of the Effects of Explanations in AI-Assisted Decision-Making|[IUI 2021](https://mingyin.org/paper/IUI-21/iui21.pdf)|||
+|**Attention fine-grained classification**|Interpretable Attention Guided Network for Fine-grained Visual Classification|[Arxiv](https://arxiv.org/pdf/2103.04701.pdf)|||
