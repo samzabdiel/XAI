@@ -246,3 +246,4 @@
 |**Attention fine-grained classification**|Interpretable Attention Guided Network for Fine-grained Visual Classification|[Arxiv](https://arxiv.org/pdf/2103.04701.pdf)|||
 |**Concept construction**|Explaining Classifiers by Constructing Familiar Concepts|[Paper](https://www.researchgate.net/profile/Johannes-Schneider-5/publication/349833788_Explaining_Classifiers_by_Constructing_Familiar_Concepts/links/6043196d92851c077f1c8b42/Explaining-Classifiers-by-Constructing-Familiar-Concepts.pdf)|[PyTorch](https://github.com/JohnTailor/ClaDec)||
 |**EbD**|Human-Understandable Decision Making for Visual Recognition|[Arxiv](https://arxiv.org/pdf/2103.03429.pdf)|||
+|**Bridging XAI algorithm , Human needs**|Towards Connecting Use Cases and Methods in Interpretable Machine Learning|[Arxiv](https://arxiv.org/pdf/2103.06254.pdf)|||
