@@ -251,3 +251,4 @@
 |**Counterfactual explanations**|Generating Interpretable Counterfactual Explanations By Implicit Minimisation of Epistemic and Aleatoric Uncertainties|[AISTATS 2021](https://arxiv.org/pdf/2103.08951.pdf)|[PyTorch](https://github.com/oscarkey/explanations-by-minimizing-uncertainty)||
 |**Role categorization of CNN units**|Quantitative Effectiveness Assessment and Role Categorization of Individual Units in Convolutional Neural Networks|[ICML 2021](https://arxiv.org/pdf/2103.09716.pdf)|||
 |**Non-trivial counterfactual explanations**|Beyond Trivial Counterfactual Explanations with Diverse Valuable Explanations|[Arxiv](https://arxiv.org/pdf/2103.10226.pdf)|||
+|**NP-ProtoPNet**|These do not Look Like Those: An Interpretable Deep Learning Model for Image Recognition|[IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9373404)|||
