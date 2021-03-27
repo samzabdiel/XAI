@@ -254,3 +254,4 @@
 |**NP-ProtoPNet**|These do not Look Like Those: An Interpretable Deep Learning Model for Image Recognition|[IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9373404)|||
 |**Correcting neural networks based on explanations**|Refining Neural Networks with Compositional Explanations|[Arxiv](https://arxiv.org/pdf/2103.10415.pdf)|Code link given in paper, but page not found||
 |**Contrastive reasoning**|Contrastive Reasoning in Neural Networks|[Arxiv](https://arxiv.org/pdf/2103.12329.pdf)|||
+|**Concept based**|Intersection Regularization for Extracting Semantic Attributes|[Arxiv](https://arxiv.org/pdf/2103.11888.pdf)|||
