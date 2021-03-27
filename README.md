@@ -255,3 +255,4 @@
 |**Correcting neural networks based on explanations**|Refining Neural Networks with Compositional Explanations|[Arxiv](https://arxiv.org/pdf/2103.10415.pdf)|Code link given in paper, but page not found||
 |**Contrastive reasoning**|Contrastive Reasoning in Neural Networks|[Arxiv](https://arxiv.org/pdf/2103.12329.pdf)|||
 |**Concept based**|Intersection Regularization for Extracting Semantic Attributes|[Arxiv](https://arxiv.org/pdf/2103.11888.pdf)|||
+|**Boundary explanations**|Boundary Attributions Provide Normal (Vector) Explanations|[Arxiv](https://arxiv.org/pdf/2103.11257.pdf)|[PyTorch](https://github.com/zifanw/boundary)||
