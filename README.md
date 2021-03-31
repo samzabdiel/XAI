@@ -258,3 +258,4 @@
 |**Boundary explanations**|Boundary Attributions Provide Normal (Vector) Explanations|[Arxiv](https://arxiv.org/pdf/2103.11257.pdf)|[PyTorch](https://github.com/zifanw/boundary)||
 |**Generative Counterfactuals**|ECINN: Efficient Counterfactuals from Invertible Neural Networks|[Arxiv](https://arxiv.org/pdf/2103.13701.pdf)|||
 |**ICE**|Invertible Concept-based Explanations for CNN Models with Non-negative Concept Activation Vectors|[AAAI 2021](https://www.aaai.org/AAAI21Papers/AAAI-10193.ZhangR.pdf)|||
+|**Group CAM**|Group-CAM: Group Score-Weighted Visual Explanations for Deep Convolutional Networks|[Arxiv](https://arxiv.org/pdf/2103.13859.pdf)|[PyTorch](https://github.com/wofmanaf/Group-CAM)||
