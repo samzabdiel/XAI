@@ -256,3 +256,4 @@
 |**Contrastive reasoning**|Contrastive Reasoning in Neural Networks|[Arxiv](https://arxiv.org/pdf/2103.12329.pdf)|||
 |**Concept based**|Intersection Regularization for Extracting Semantic Attributes|[Arxiv](https://arxiv.org/pdf/2103.11888.pdf)|||
 |**Boundary explanations**|Boundary Attributions Provide Normal (Vector) Explanations|[Arxiv](https://arxiv.org/pdf/2103.11257.pdf)|[PyTorch](https://github.com/zifanw/boundary)||
+|**Generative Counterfactuals**|ECINN: Efficient Counterfactuals from Invertible Neural Networks|[Arxiv](https://arxiv.org/pdf/2103.13701.pdf)|||
