@@ -261,3 +261,4 @@
 |**Group CAM**|Group-CAM: Group Score-Weighted Visual Explanations for Deep Convolutional Networks|[Arxiv](https://arxiv.org/pdf/2103.13859.pdf)|[PyTorch](https://github.com/wofmanaf/Group-CAM)||
 |**HMM interpretability**|Towards interpretability of Mixtures of Hidden Markov Models|[AAAI 2021](https://arxiv.org/pdf/2103.12576.pdf)|[sklearn](https://github.com/negar7918/iMHMM)||
 |**Empirical Explainers**|Efficient Explanations from Empirical Explainers|[Arxiv](https://arxiv.org/pdf/2103.15429.pdf)|[PyTorch](https://github.com/dfki-nlp/emp-exp)||
+|**FixNorm**|FIXNORM: DISSECTING WEIGHT DECAY FOR TRAINING DEEP NEURAL NETWORKS|[Arxiv](https://arxiv.org/pdf/2103.15345.pdf)|||
