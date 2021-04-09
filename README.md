@@ -260,3 +260,4 @@
 |**ICE**|Invertible Concept-based Explanations for CNN Models with Non-negative Concept Activation Vectors|[AAAI 2021](https://www.aaai.org/AAAI21Papers/AAAI-10193.ZhangR.pdf)|||
 |**Group CAM**|Group-CAM: Group Score-Weighted Visual Explanations for Deep Convolutional Networks|[Arxiv](https://arxiv.org/pdf/2103.13859.pdf)|[PyTorch](https://github.com/wofmanaf/Group-CAM)||
 |**HMM interpretability**|Towards interpretability of Mixtures of Hidden Markov Models|[AAAI 2021](https://arxiv.org/pdf/2103.12576.pdf)|[sklearn](https://github.com/negar7918/iMHMM)||
+|**Empirical Explainers**|Efficient Explanations from Empirical Explainers|[Arxiv](https://arxiv.org/pdf/2103.15429.pdf)|[PyTorch](https://github.com/dfki-nlp/emp-exp)||
