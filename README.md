@@ -262,3 +262,4 @@
 |**HMM interpretability**|Towards interpretability of Mixtures of Hidden Markov Models|[AAAI 2021](https://arxiv.org/pdf/2103.12576.pdf)|[sklearn](https://github.com/negar7918/iMHMM)||
 |**Empirical Explainers**|Efficient Explanations from Empirical Explainers|[Arxiv](https://arxiv.org/pdf/2103.15429.pdf)|[PyTorch](https://github.com/dfki-nlp/emp-exp)||
 |**FixNorm**|FIXNORM: DISSECTING WEIGHT DECAY FOR TRAINING DEEP NEURAL NETWORKS|[Arxiv](https://arxiv.org/pdf/2103.15345.pdf)|||
+|**CoDA-Net**|Convolutional Dynamic Alignment Networks for Interpretable Classifications|[CVPR 2021](https://arxiv.org/pdf/2104.00032.pdf)|Code link given in paper. Repository not yet created||
