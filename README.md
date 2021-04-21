@@ -263,3 +263,4 @@
 |**Empirical Explainers**|Efficient Explanations from Empirical Explainers|[Arxiv](https://arxiv.org/pdf/2103.15429.pdf)|[PyTorch](https://github.com/dfki-nlp/emp-exp)||
 |**FixNorm**|FIXNORM: DISSECTING WEIGHT DECAY FOR TRAINING DEEP NEURAL NETWORKS|[Arxiv](https://arxiv.org/pdf/2103.15345.pdf)|||
 |**CoDA-Net**|Convolutional Dynamic Alignment Networks for Interpretable Classifications|[CVPR 2021](https://arxiv.org/pdf/2104.00032.pdf)|Code link given in paper. Repository not yet created||
+|**Like Dr. Chandru sir's (IITPKD) XAI work**|Neural Response Interpretation through the Lens of Critical Pathways|[Arxiv](https://arxiv.org/pdf/2103.16886.pdf)|[PyTorch- Pathway Grad](https://github.com/CAMP-eXplain-AI/PathwayGrad)[PyTorch - ROAR](https://github.com/CAMP-eXplain-AI/RoarTorch/tree/master/src/roar)||
