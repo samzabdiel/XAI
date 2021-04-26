@@ -267,3 +267,4 @@
 |**Like Dr. Chandru sir's (IITPKD) XAI work**|Neural Response Interpretation through the Lens of Critical Pathways|[Arxiv](https://arxiv.org/pdf/2103.16886.pdf)|[PyTorch- Pathway Grad](https://github.com/CAMP-eXplain-AI/PathwayGrad)[PyTorch - ROAR](https://github.com/CAMP-eXplain-AI/RoarTorch/tree/master/src/roar)||
 |**Inaugment**|InAugment: Improving Classifiers via Internal Augmentation|[Arxiv](https://arxiv.org/pdf/2104.03843.pdf)|[Code yet to be updated](https://github.com/moabarar/inaugment)||
 |**Gradual Grad CAM**|Enhancing Deep Neural Network Saliency Visualizations with Gradual Extrapolation|[Arxiv](https://arxiv.org/pdf/2104.04945.pdf)|[PyTorch](https://github.com/szandala/gradual-extrapolation)|| 
+|**A-FMI**|A-FMI: LEARNING ATTRIBUTIONS FROM DEEP NETWORKS VIA FEATURE MAP IMPORTANCE|[Arxiv](https://arxiv.org/pdf/2104.05527.pdf)|||
