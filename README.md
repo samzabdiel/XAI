@@ -268,3 +268,4 @@
 |**Inaugment**|InAugment: Improving Classifiers via Internal Augmentation|[Arxiv](https://arxiv.org/pdf/2104.03843.pdf)|[Code yet to be updated](https://github.com/moabarar/inaugment)||
 |**Gradual Grad CAM**|Enhancing Deep Neural Network Saliency Visualizations with Gradual Extrapolation|[Arxiv](https://arxiv.org/pdf/2104.04945.pdf)|[PyTorch](https://github.com/szandala/gradual-extrapolation)|| 
 |**A-FMI**|A-FMI: LEARNING ATTRIBUTIONS FROM DEEP NETWORKS VIA FEATURE MAP IMPORTANCE|[Arxiv](https://arxiv.org/pdf/2104.05527.pdf)|||
+|**Trust - Regression**|To Trust or Not to Trust a Regressor: Estimating and Explaining Trustworthiness of Regression Predictions|[AAAI 2021](https://arxiv.org/pdf/2104.06982.pdf)|[sklearn](https://github.com/kimdebie/retroviz-tutorial)||
