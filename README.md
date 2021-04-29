@@ -274,3 +274,5 @@
 |**Counterfactual explanation**|Counterfactual attribute-based visual explanations for classification|[Springer](https://link.springer.com/content/pdf/10.1007/s13735-021-00208-3.pdf)|||
 |**User based explanations**|That's (not) the output I expected!” On the role of end user expectations in creating explanations of AI systems|[AIJ](https://www.sciencedirect.com/science/article/pii/S0004370221000588)|||
 |**Human understandable concept based explanations**|Towards Human-Understandable Visual Explanations: Imperceptible High-frequency Cues Can Better Be Removed|[Arxiv](https://arxiv.org/pdf/2104.07954.pdf)|||
+|**Improved attribution**|Improving Attribution Methods by Learning Submodular Functions|[Arxiv](https://arxiv.org/pdf/2104.09073.pdf)|||
+|**SHAP tractability**|On the Complexity of SHAP-Score-Based Explanations: Tractability via Knowledge Compilation and Non-Approximability Results|[Arxiv](https://arxiv.org/pdf/2104.08015.pdf)|||
