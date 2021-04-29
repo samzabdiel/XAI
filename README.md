@@ -271,3 +271,4 @@
 |**Trust - Regression**|To Trust or Not to Trust a Regressor: Estimating and Explaining Trustworthiness of Regression Predictions|[AAAI 2021](https://arxiv.org/pdf/2104.06982.pdf)|[sklearn](https://github.com/kimdebie/retroviz-tutorial)||
 |**Concept based explanations - study**|IS DISENTANGLEMENT ALL YOU NEED? COMPARING CONCEPT-BASED & DISENTANGLEMENT APPROACHES|[ICLR 2021 workshop](https://arxiv.org/pdf/2104.06917.pdf)|[tensorflow 2.3](https://github.com/dmitrykazhdan/concept-based-xai)||
 |**Faithful attribution**|Mutual Information Preserving Back-propagation: Learn to Invert for Faithful Attribution|[Arxiv](https://arxiv.org/pdf/2104.06629.pdf)|||
+|**Counterfactual explanation**|Counterfactual attribute-based visual explanations for classification|[Springer](https://link.springer.com/content/pdf/10.1007/s13735-021-00208-3.pdf)|||
