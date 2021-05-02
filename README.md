@@ -280,3 +280,4 @@
 |**Concept based dataset shift explanation**|FAILING CONCEPTUALLY: CONCEPT-BASED EXPLANATIONS OF DATASET SHIFT|[ICLR 2021 workshop](https://arxiv.org/pdf/2104.08952.pdf)|[tensorflow 2](https://github.com/maleakhiw/explaining-dataset-shifts)||
 |**EbD**|Towards Human-Understandable Visual Explanations: Imperceptible High-frequency Cues Can Better Be Removed|[Arxiv](https://arxiv.org/pdf/2104.07954.pdf)|||
 |**Evaluating CAM**|Revisiting The Evaluation of Class Activation Mapping for Explainability: A Novel Metric and Experimental Analysis|[Arxiv](https://arxiv.org/pdf/2104.10252.pdf)|||
+|**EFC-CAM**|Exclusive Feature Constrained Class Activation Mapping for Better Visual Explanation|[IEEE](https://ieeexplore.ieee.org/document/9405672)|||
