@@ -278,3 +278,4 @@
 |**SHAP tractability**|On the Complexity of SHAP-Score-Based Explanations: Tractability via Knowledge Compilation and Non-Approximability Results|[Arxiv](https://arxiv.org/pdf/2104.08015.pdf)|||
 |**SHAP explanation network**|SHAPLEY EXPLANATION NETWORKS|[ICLR 2021](https://arxiv.org/pdf/2104.02297.pdf)|[PyTorch](https://github.com/inouye-lab/ShapleyExplanationNetworks)||
 |**Concept based dataset shift explanation**|FAILING CONCEPTUALLY: CONCEPT-BASED EXPLANATIONS OF DATASET SHIFT|[ICLR 2021 workshop](https://arxiv.org/pdf/2104.08952.pdf)|[tensorflow 2](https://github.com/maleakhiw/explaining-dataset-shifts)||
+|**EbD**|Towards Human-Understandable Visual Explanations: Imperceptible High-frequency Cues Can Better Be Removed|[Arxiv](https://arxiv.org/pdf/2104.07954.pdf)|||
