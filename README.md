@@ -283,3 +283,4 @@
 |**EFC-CAM**|Exclusive Feature Constrained Class Activation Mapping for Better Visual Explanation|[IEEE](https://ieeexplore.ieee.org/document/9405672)|||
 |**Causal Interpretation**|Instance-wise Causal Feature Selection for Model Interpretation|[Arxiv](https://arxiv.org/pdf/2104.12759.pdf)|[PyTorch](https://github.com/pranoy-panda/Causal-Feature-Subset-Selection)||
 |**Fairness in Learning**|Learning to Learn to be Right for the Right Reasons|[Arxiv](https://arxiv.org/pdf/2104.11514.pdf)|||
+|**Feature attribution correctness**|Do Feature Attribution Methods Correctly Attribute Features?|[Arxiv](https://arxiv.org/pdf/2104.14403.pdf)|[Code not yet updated](https://github.com/YilunZhou/feature-attribution-evaluation)||
