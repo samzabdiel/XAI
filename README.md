@@ -285,3 +285,4 @@
 |**Fairness in Learning**|Learning to Learn to be Right for the Right Reasons|[Arxiv](https://arxiv.org/pdf/2104.11514.pdf)|||
 |**Feature attribution correctness**|Do Feature Attribution Methods Correctly Attribute Features?|[Arxiv](https://arxiv.org/pdf/2104.14403.pdf)|[Code not yet updated](https://github.com/YilunZhou/feature-attribution-evaluation)||
 |**NICE**|NICE: AN ALGORITHM FOR NEAREST INSTANCE COUNTERFACTUAL EXPLANATIONS|[Arxiv](https://arxiv.org/pdf/2104.07411.pdf)|[Own Python Package](https://github.com/ADMAntwerp/NICE)||
+|**SCG**|A Peek Into the Reasoning of Neural Networks: Interpreting with Structural Visual Concepts|[Arxiv](https://arxiv.org/pdf/2105.00290.pdf)|||
