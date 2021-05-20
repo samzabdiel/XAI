@@ -290,3 +290,4 @@
 |**This looks like that -  drawback**|This Looks Like That... Does it? Shortcomings of Latent Space Prototype Interpretability in Deep Networks|[Arxiv](https://arxiv.org/pdf/2105.02968.pdf)|[PyTorch](https://github.com/fanconic/this-does-not-look-like-that)||
 |**Exemplar based classification**|Visualizing Association in Exemplar-Based Classification|[ICASSP 2021](https://ieeexplore.ieee.org/abstract/document/9413574)|||
 |**Correcting classification**|CORRECTING CLASSIFICATION: A BAYESIAN FRAMEWORK USING EXPLANATION FEEDBACK TO IMPROVE CLASSIFICATION ABILITIES|[Arxiv](https://arxiv.org/pdf/2105.02653.pdf)|||
+|**Concept Bottleneck Networks**|DO CONCEPT BOTTLENECK MODELS LEARN AS INTENDED?|[ICLR workshop 2021](https://arxiv.org/pdf/2105.04289.pdf)|||
