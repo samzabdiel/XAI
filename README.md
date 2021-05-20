@@ -288,3 +288,4 @@
 |**SCG**|A Peek Into the Reasoning of Neural Networks: Interpreting with Structural Visual Concepts|[Arxiv](https://arxiv.org/pdf/2105.00290.pdf)|||
 |**Visual Concepts**|A Peek Into the Reasoning of Neural Networks: Interpreting with Structural Visual Concepts|[Arxiv](https://arxiv.org/pdf/2105.00290.pdf)|||
 |**This looks like that -  drawback**|This Looks Like That... Does it? Shortcomings of Latent Space Prototype Interpretability in Deep Networks|[Arxiv](https://arxiv.org/pdf/2105.02968.pdf)|[PyTorch](https://github.com/fanconic/this-does-not-look-like-that)||
+|**Exemplar based classification**|Visualizing Association in Exemplar-Based Classification|[ICASSP 2021](https://ieeexplore.ieee.org/abstract/document/9413574)|||
