@@ -294,3 +294,4 @@
 |**Sanity for saliency**|Sanity Simulations for Saliency Methods|[Arxiv](https://arxiv.org/pdf/2105.06506.pdf)|||
 |**Concept based explanations**|Cause and Effect: Concept-based Explanation of Neural Networks|[Arxiv](https://arxiv.org/pdf/2105.07033.pdf)|||
 |**CLIMEP**|How to Explain Neural Networks: A perspective of data space division|[Arxiv](https://arxiv.org/pdf/2105.07831.pdf)|||
+|**Sufficient explanations**|Probabilistic Sufficient Explanations|[Arxiv](https://arxiv.org/pdf/2105.10118.pdf)|[Empty Repository](https://github.com/UCLA-StarAI/SufficientExplanations)||
