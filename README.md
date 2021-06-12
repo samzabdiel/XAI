@@ -297,3 +297,4 @@
 |**Sufficient explanations**|Probabilistic Sufficient Explanations|[Arxiv](https://arxiv.org/pdf/2105.10118.pdf)|[Empty Repository](https://github.com/UCLA-StarAI/SufficientExplanations)||
 |**SHAP baseline**|Learning Baseline Values for Shapley Values|[Arxiv](https://arxiv.org/pdf/2105.10719.pdf)|||
 |**Explainable by Design**|EXoN: EXplainable encoder Network|[Arxiv](https://arxiv.org/pdf/2105.10867.pdf)|[tensorflow 2.4.0](https://github.com/an-seunghwan/EXoN)|`explainable VAE`|
+|**Concept based explanations**|Aligning Artificial Neural Networks and Ontologies towards Explainable AI|[AAAI 2021](https://ojs.aaai.org/index.php/AAAI/article/view/16626)|||
