@@ -303,3 +303,4 @@
 |**Explanation blind spots**|DO NOT EXPLAIN WITHOUT CONTEXT: ADDRESSING THE BLIND SPOT OF MODEL EXPLANATIONS|[Arxiv](https://arxiv.org/pdf/2105.13787.pdf)|||
 |**BLA**|Bounded logit attention: Learning to explain image classifiers|[Arxiv](https://arxiv.org/pdf/2105.14824.pdf)|[tensorflow](https://github.com/th-b/bla)|L2X++|
 |**Interpretability - mathematical model**|The Definitions of Interpretability and Learning of Interpretable Models|[Arxiv](https://arxiv.org/pdf/2105.14171.pdf)|||
+|**Similar to our ICML workshop 2021 work**|The effectiveness of feature attribution methods and its correlation with automatic evaluation scores|[Arxiv](https://arxiv.org/pdf/2105.14944.pdf)|||
