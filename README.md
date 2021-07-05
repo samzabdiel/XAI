@@ -304,3 +304,5 @@
 |**BLA**|Bounded logit attention: Learning to explain image classifiers|[Arxiv](https://arxiv.org/pdf/2105.14824.pdf)|[tensorflow](https://github.com/th-b/bla)|L2X++|
 |**Interpretability - mathematical model**|The Definitions of Interpretability and Learning of Interpretable Models|[Arxiv](https://arxiv.org/pdf/2105.14171.pdf)|||
 |**Similar to our ICML workshop 2021 work**|The effectiveness of feature attribution methods and its correlation with automatic evaluation scores|[Arxiv](https://arxiv.org/pdf/2105.14944.pdf)|||
+|**EDDA**|EDDA: Explanation-driven Data Augmentation to Improve Model and Explanation Alignment|[Arxiv](https://arxiv.org/pdf/2105.14162.pdf)|||
+|**Relevant set explanations**|Efficient Explanations With Relevant Sets|[Arxiv](https://arxiv.org/pdf/2106.00546.pdf)|||
