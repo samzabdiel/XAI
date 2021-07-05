@@ -301,3 +301,5 @@
 |**XAI via Bayesian teaching**|ABSTRACTION, VALIDATION, AND GENERALIZATION FOR EXPLAINABLE ARTIFICIAL INTELLIGENCE|[Arxiv](https://arxiv.org/pdf/2105.07508.pdf)|||
 |**Concept based counterfactual explanations**|DISSECT: Disentangled Simultaneous Explanations via Concept Traversals|[Arxiv](https://arxiv.org/pdf/2105.15164.pdf)|[tensorflow 1.12](https://github.com/asmadotgh/dissect)|Been Kim's group|
 |**Explanation blind spots**|DO NOT EXPLAIN WITHOUT CONTEXT: ADDRESSING THE BLIND SPOT OF MODEL EXPLANATIONS|[Arxiv](https://arxiv.org/pdf/2105.13787.pdf)|||
+|**BLA**|Bounded logit attention: Learning to explain image classifiers|[Arxiv](https://arxiv.org/pdf/2105.14824.pdf)|[tensorflow](https://github.com/th-b/bla)|L2X++|
+|**Interpretability - mathematical model**|The Definitions of Interpretability and Learning of Interpretable Models|[Arxiv](https://arxiv.org/pdf/2105.14171.pdf)|||
