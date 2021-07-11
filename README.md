@@ -307,3 +307,4 @@
 |**EDDA**|EDDA: Explanation-driven Data Augmentation to Improve Model and Explanation Alignment|[Arxiv](https://arxiv.org/pdf/2105.14162.pdf)|||
 |**Relevant set explanations**|Efficient Explanations With Relevant Sets|[Arxiv](https://arxiv.org/pdf/2106.00546.pdf)|||
 |**Model transfer**|Making CNNs Interpretable by Building Dynamic Sequential Decision Forests with Top-down Hierarchy Learning|[Arxiv](https://arxiv.org/pdf/2106.02824.pdf)|||
+|**Model correction**|Finding and Fixing Spurious Patterns with Explanations|[Arxiv](https://arxiv.org/pdf/2106.02112.pdf)|||
