@@ -306,3 +306,4 @@
 |**Similar to our ICML workshop 2021 work**|The effectiveness of feature attribution methods and its correlation with automatic evaluation scores|[Arxiv](https://arxiv.org/pdf/2105.14944.pdf)|||
 |**EDDA**|EDDA: Explanation-driven Data Augmentation to Improve Model and Explanation Alignment|[Arxiv](https://arxiv.org/pdf/2105.14162.pdf)|||
 |**Relevant set explanations**|Efficient Explanations With Relevant Sets|[Arxiv](https://arxiv.org/pdf/2106.00546.pdf)|||
+|**Model transfer**|Making CNNs Interpretable by Building Dynamic Sequential Decision Forests with Top-down Hierarchy Learning|[Arxiv](https://arxiv.org/pdf/2106.02824.pdf)|||
