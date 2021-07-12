@@ -308,3 +308,4 @@
 |**Relevant set explanations**|Efficient Explanations With Relevant Sets|[Arxiv](https://arxiv.org/pdf/2106.00546.pdf)|||
 |**Model transfer**|Making CNNs Interpretable by Building Dynamic Sequential Decision Forests with Top-down Hierarchy Learning|[Arxiv](https://arxiv.org/pdf/2106.02824.pdf)|||
 |**Model correction**|Finding and Fixing Spurious Patterns with Explanations|[Arxiv](https://arxiv.org/pdf/2106.02112.pdf)|||
+|**Neuron graph communities**|On the Evolution of Neuron Communities in a Deep Learning Architecture|[Arxiv](https://arxiv.org/pdf/2106.04693.pdf)|||
