@@ -318,3 +318,4 @@
 |**S-LIME**|S-LIME: Stabilized-LIME for Model Explanation|[Arxiv](https://arxiv.org/pdf/2106.07875.pdf)|[sklearn](https://github.com/ZhengzeZhou/slime)||
 |**Local + Global**|Best of both worlds: local and global explanations with human-understandable concepts|[Arxiv](https://arxiv.org/pdf/2106.08641.pdf)||Been Kim's group|
 |**Guided integrated gradients**|Guided Integrated Gradients: an Adaptive Path Method for Removing Noise|[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Kapishnikov_Guided_Integrated_Gradients_An_Adaptive_Path_Method_for_Removing_Noise_CVPR_2021_paper.pdf)|||
+|**Concept based**|Meaningfully Explaining a Model’s Mistakes|[Arxiv](https://arxiv.org/pdf/2106.12723.pdf)|||
