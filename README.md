@@ -319,3 +319,4 @@
 |**Local + Global**|Best of both worlds: local and global explanations with human-understandable concepts|[Arxiv](https://arxiv.org/pdf/2106.08641.pdf)||Been Kim's group|
 |**Guided integrated gradients**|Guided Integrated Gradients: an Adaptive Path Method for Removing Noise|[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Kapishnikov_Guided_Integrated_Gradients_An_Adaptive_Path_Method_for_Removing_Noise_CVPR_2021_paper.pdf)|||
 |**Concept based**|Meaningfully Explaining a Model’s Mistakes|[Arxiv](https://arxiv.org/pdf/2106.12723.pdf)|||
+|**Explainable by design**|It’s FLAN time! Summing feature-wise latent representations for interpretability|[Arxiv](https://arxiv.org/pdf/2106.10086.pdf)|||
