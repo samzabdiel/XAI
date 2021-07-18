@@ -309,3 +309,4 @@
 |**Model transfer**|Making CNNs Interpretable by Building Dynamic Sequential Decision Forests with Top-down Hierarchy Learning|[Arxiv](https://arxiv.org/pdf/2106.02824.pdf)|||
 |**Model correction**|Finding and Fixing Spurious Patterns with Explanations|[Arxiv](https://arxiv.org/pdf/2106.02112.pdf)|||
 |**Neuron graph communities**|On the Evolution of Neuron Communities in a Deep Learning Architecture|[Arxiv](https://arxiv.org/pdf/2106.04693.pdf)|||
+|**Mid level features explanations**|A general approach for Explanations in terms of Middle Level Features|[Arxiv](https://arxiv.org/pdf/2106.05037.pdf)||see how different from MUSE by Hima Lakkaraju group|
