@@ -314,4 +314,5 @@
 |**CNN high frequency bias**|Dissecting the High-Frequency Bias in Convolutional Neural Networks|[CVPR 2021 workshop](https://openaccess.thecvf.com/content/CVPR2021W/UG2/papers/Abello_Dissecting_the_High-Frequency_Bias_in_Convolutional_Neural_Networks_CVPRW_2021_paper.pdf)|[Tensorflow](https://github.com/Abello966/FrequencyBiasExperiments)||
 |**Explainable by design**|Entropy-based Logic Explanations of Neural Networks|[Arxiv](https://arxiv.org/pdf/2106.06804.pdf)|[PyTorch](https://github.com/pietrobarbiero/logic_explainer_networks)|concept based|
 |**CALM**|Keep CALM and Improve Visual Feature Attribution|[Arxiv](https://arxiv.org/pdf/2106.07861.pdf)|[PyTorch](https://github.com/naver-ai/calm)||
+|**Relevance CAM**|Relevance-CAM: Your Model Already Knows Where to Look|[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Relevance-CAM_Your_Model_Already_Knows_Where_To_Look_CVPR_2021_paper.pdf)|[PyTorch](https://github.com/mongeoroo/Relevance-CAM)||
 |**S-LIME**|S-LIME: Stabilized-LIME for Model Explanation|[Arxiv](https://arxiv.org/pdf/2106.07875.pdf)|[sklearn](https://github.com/ZhengzeZhou/slime)||
