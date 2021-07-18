@@ -310,3 +310,4 @@
 |**Model correction**|Finding and Fixing Spurious Patterns with Explanations|[Arxiv](https://arxiv.org/pdf/2106.02112.pdf)|||
 |**Neuron graph communities**|On the Evolution of Neuron Communities in a Deep Learning Architecture|[Arxiv](https://arxiv.org/pdf/2106.04693.pdf)|||
 |**Mid level features explanations**|A general approach for Explanations in terms of Middle Level Features|[Arxiv](https://arxiv.org/pdf/2106.05037.pdf)||see how different from MUSE by Hima Lakkaraju group|
+|**Concept based knowledge distillation**|Towards Black-Box Explainability with Gaussian Discriminant Knowledge Distillation|[CVPR 2021 workshop](https://openaccess.thecvf.com/content/CVPR2021W/SAIAD/papers/Haselhoff_Towards_Black-Box_Explainability_With_Gaussian_Discriminant_Knowledge_Distillation_CVPRW_2021_paper.pdf)||compare and contrast with network dissection|
