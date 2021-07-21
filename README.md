@@ -320,3 +320,5 @@
 |**Guided integrated gradients**|Guided Integrated Gradients: an Adaptive Path Method for Removing Noise|[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Kapishnikov_Guided_Integrated_Gradients_An_Adaptive_Path_Method_for_Removing_Noise_CVPR_2021_paper.pdf)|||
 |**Concept based**|Meaningfully Explaining a Model’s Mistakes|[Arxiv](https://arxiv.org/pdf/2106.12723.pdf)|||
 |**Explainable by design**|It’s FLAN time! Summing feature-wise latent representations for interpretability|[Arxiv](https://arxiv.org/pdf/2106.10086.pdf)|||
+|**SimAM**|SimAM: A Simple, Parameter-Free Attention Module for Convolutional Neural Networks|[ICML 2021](http://proceedings.mlr.press/v139/yang21o/yang21o.pdf)|[PyTorch](https://github.com/ZjjConan/SimAM)||
+|**DANCE**|DANCE: Enhancing saliency maps using decoys|[ICML 2021](http://proceedings.mlr.press/v139/lu21b/lu21b.pdf)|[Tensorflow 1.x](https://bitbucket.org/noblelab/dance/src/master/)||
