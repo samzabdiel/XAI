@@ -323,3 +323,4 @@
 |**SimAM**|SimAM: A Simple, Parameter-Free Attention Module for Convolutional Neural Networks|[ICML 2021](http://proceedings.mlr.press/v139/yang21o/yang21o.pdf)|[PyTorch](https://github.com/ZjjConan/SimAM)||
 |**DANCE**|DANCE: Enhancing saliency maps using decoys|[ICML 2021](http://proceedings.mlr.press/v139/lu21b/lu21b.pdf)|[Tensorflow 1.x](https://bitbucket.org/noblelab/dance/src/master/)||
 |**EbD Concept formation**|Explore Visual Concept Formation for Image Classification|[ICML 2021](http://proceedings.mlr.press/v139/xiong21a/xiong21a.pdf)|[PyTorch](https://github.com/elvintanhust/LSOVCF)||
+|**Explainable by design**|Interpretable Compositional Convolutional Neural Networks|[Arxiv](https://arxiv.org/pdf/2107.04474.pdf)|||
