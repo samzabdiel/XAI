@@ -329,3 +329,4 @@
 |**Global explanations**|Feature Synergy, Redundancy, and Independence in Global Model Explanations using SHAP Vector Decomposition|[Arxiv](https://arxiv.org/pdf/2107.12436.pdf)|[Github package](https://github.com/BCG-Gamma/facet)||
 |**L2E**|Learning to Explain: Generating Stable Explanations Fast|[ACL 2021](https://aclanthology.org/2021.acl-long.415.pdf)|[PyTorch](https://github.com/situsnow/L2E)|NLE|
 |**Joint Shapley**|Joint Shapley values: a measure of joint feature importance|[Arxiv](https://arxiv.org/pdf/2107.11357.pdf)|||
+|**Explainable by design**|Align Yourself: Self-supervised Pre-training for Fine-grained Recognition via Saliency Alignment|[Arxiv](https://arxiv.org/pdf/2106.15788.pdf)|||
