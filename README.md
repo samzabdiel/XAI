@@ -131,7 +131,7 @@
 |**Concept based explanation + user feedback**|Teaching the Machine to Explain Itself using Domain Knowledge|[Openreview](https://openreview.net/pdf/47341095c0d591a6b8c51da0e9dab58076b003c6.pdf)|||
 |**Counterfactual produces Adversarial**|Semantics and explanation: why counterfactual explanations produce adversarial examples in deep neural networks|[AIJ submission](https://kieranbrowne.com/publications/semantics_and_explanation.pdf)|||
 |**MEME**|MEME: Generating RNN Model Explanations via Model Extraction|[OpenReview](https://openreview.net/pdf/541a2c924c4a5736c60425d247e64ce2c0b3041b.pdf)|[Keras](https://github.com/dmitrykazhdan/MEME-RNN-XAI)|RNN specific LIME, see if any improvisations for MACE comes from here|
-|**ProtoPShare**|ProtoPShare: Prototype Sharing for Interpretable Image Classification and Similarity Discovery|[Arxiv](https://arxiv.org/pdf/2011.14340.pdf)||Improved ProtoPNet (This looks like that)|
+|**ProtoPShare**|ProtoPShare: Prototype Sharing for Interpretable Image Classification and Similarity Discovery|[Arxiv - Accepted at ACM SIGKDD 2021](https://arxiv.org/pdf/2011.14340.pdf)||Improved ProtoPNet (This looks like that)|
 |**RANCC**|RANCC: Rationalizing Neural Networks via Concept Clustering|[ACL](https://www.aclweb.org/anthology/2020.coling-main.286.pdf)|[Tensorflow 1.x](https://www.aclweb.org/anthology/2020.coling-main.286.pdf)||
 |**EAN**|Efficient Attention Network: Accelerate Attention by Searching Where to Plug|[Arxiv](https://arxiv.org/pdf/2011.14058.pdf)|[PyTorch](https://github.com/gbup-group/EAN-efficient-attention-network)||
 |**LIME Analysis**|Why model why? Assessing the strengths and limitations of LIME|[Arxiv](https://arxiv.org/pdf/2012.00093.pdf)|[sklearn](https://github.com/jdieber/WhyModelWhy)||
