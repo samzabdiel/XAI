@@ -333,4 +333,4 @@
 |**Explainable by design**|SONG: SELF-ORGANIZING NEURAL GRAPHS|[Arxiv](https://arxiv.org/pdf/2107.13214.pdf)|||
 |**Explainable by design**|Designing Shapelets for Interpretable Data-Agnostic Classification|[AIES 2021](https://dl.acm.org/doi/pdf/10.1145/3461702.3462553)|[sklearn](https://github.com/riccotti/DASH/tree/main/dash)|Interpretable block of time series extended to other data modalitites like image, text, tabular|
 |**Global explanations + Model correction**|Where do Models go Wrong? Parameter-Space Saliency Maps for Explainability|[Arxiv](https://arxiv.org/pdf/2108.01335.pdf)|[PyTorch](https://github.com/LevinRoman/parameter-space-saliency)||
-
+|**HIL- Model correction**|Human-in-the-loop Extraction of Interpretable Concepts in Deep Learning Models|[Arxiv](https://arxiv.org/ftp/arxiv/papers/2108/2108.03738.pdf)|||
