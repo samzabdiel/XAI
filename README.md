@@ -336,3 +336,4 @@
 |**Global explanations + Model correction**|Where do Models go Wrong? Parameter-Space Saliency Maps for Explainability|[Arxiv](https://arxiv.org/pdf/2108.01335.pdf)|[PyTorch](https://github.com/LevinRoman/parameter-space-saliency)||
 |**HIL- Model correction**|Human-in-the-loop Extraction of Interpretable Concepts in Deep Learning Models|[Arxiv](https://arxiv.org/ftp/arxiv/papers/2108/2108.03738.pdf)|||
 |**Activation based Cause Analysis**|Activation-Based Cause Analysis Method for Neural Networks|[IEEE Access 2021](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9508954)|||
+|**Local explanations**|Leveraging Latent Features for Local Explanations|[ACM SIGKDD 2021](https://dl.acm.org/doi/abs/10.1145/3447548.3467265)||Amit Dhurandhar group|
