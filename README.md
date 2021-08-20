@@ -194,7 +194,7 @@
 |**Learning theoretic Local Interpretability**|A LEARNING THEORETIC PERSPECTIVE ON LOCAL EXPLAINABILITY|[Arxiv](https://arxiv.org/pdf/2011.01205.pdf)|||
 |**GANMEX**|GANMEX: ONE-VS-ONE ATTRIBUTIONS USING GAN-BASED MODEL EXPLAINABILITY|[Arxiv](https://arxiv.org/pdf/2011.06015.pdf)|||
 |**Evaluating Local Explanations**|Evaluating local explanation methods on ground truth|[Artificial Intelligence Journal Elsevier](https://www.sciencedirect.com/science/article/pii/S0004370220301776)|[sklearn](https://github.com/riccotti/SyntheticExplanationGenerator)||
-|**Structured Attention Graphs**|Structured Attention Graphs for Understanding Deep Image Classifications|[AAAI 2021](https://arxiv.org/pdf/2011.06733.pdf)||see how close to MACE|
+|**Structured Attention Graphs**|Structured Attention Graphs for Understanding Deep Image Classifications|[AAAI 2021](https://arxiv.org/pdf/2011.06733.pdf)|[PyTorch](https://github.com/viv92/structured-attention-graphs)|see how close to MACE|
 |**Ground truth explanations**|Data Representing Ground-Truth Explanations to Evaluate XAI Methods|[AAAI 2021](https://arxiv.org/pdf/2011.09892.pdf)|[sklearn](https://github.com/Rosinaweber/DataRepresentingGroundTruthExplanations)|trained models available in their github repository|
 |**AGF**|Visualization of Supervised and Self-Supervised Neural Networks via Attribution Guided Factorization|[AAAI 2021](https://arxiv.org/pdf/2012.02166.pdf)|[PyTorch](https://github.com/shirgur/AGFVisualization)||
 |**RSP**|Interpreting Deep Neural Networks with Relative Sectional Propagation by Analyzing Comparative Gradients and Hostile Activations|[AAAI 2021](https://arxiv.org/pdf/2012.03434.pdf)|||
