@@ -338,3 +338,4 @@
 |**Activation based Cause Analysis**|Activation-Based Cause Analysis Method for Neural Networks|[IEEE Access 2021](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9508954)|||
 |**Local explanations**|Leveraging Latent Features for Local Explanations|[ACM SIGKDD 2021](https://dl.acm.org/doi/abs/10.1145/3447548.3467265)||Amit Dhurandhar group|
 |**Fairness**|Adequate and fair explanations|[Arxiv - Accepted in CD-MAKE 2021](https://arxiv.org/pdf/2001.07578.pdf)|||
+|**Global explanations**|Finding Representative Interpretations on Convolutional Neural Networks|[ICCV 2021](https://arxiv.org/pdf/2108.06384.pdf)|||
