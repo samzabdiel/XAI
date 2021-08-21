@@ -340,3 +340,4 @@
 |**Fairness**|Adequate and fair explanations|[Arxiv - Accepted in CD-MAKE 2021](https://arxiv.org/pdf/2001.07578.pdf)|||
 |**Global explanations**|Finding Representative Interpretations on Convolutional Neural Networks|[ICCV 2021](https://arxiv.org/pdf/2108.06384.pdf)|||
 |**Groupwise explanations**|Learning Groupwise Explanations for Black-Box Models|[IJCAI 2021](https://www.ijcai.org/proceedings/2021/0330.pdf)|[PyTorch](https://github.com/jygao97/GIME)||
+|**Mathematical**|On Smoother Attributions using Neural Stochastic Differential Equations|[IJCAI 2021](https://www.ijcai.org/proceedings/2021/0073.pdf)|||
