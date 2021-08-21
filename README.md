@@ -339,3 +339,4 @@
 |**Local explanations**|Leveraging Latent Features for Local Explanations|[ACM SIGKDD 2021](https://dl.acm.org/doi/abs/10.1145/3447548.3467265)||Amit Dhurandhar group|
 |**Fairness**|Adequate and fair explanations|[Arxiv - Accepted in CD-MAKE 2021](https://arxiv.org/pdf/2001.07578.pdf)|||
 |**Global explanations**|Finding Representative Interpretations on Convolutional Neural Networks|[ICCV 2021](https://arxiv.org/pdf/2108.06384.pdf)|||
+|**Groupwise explanations**|Learning Groupwise Explanations for Black-Box Models|[IJCAI 2021](https://www.ijcai.org/proceedings/2021/0330.pdf)|[PyTorch](https://github.com/jygao97/GIME)||
