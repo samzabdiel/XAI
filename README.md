@@ -343,3 +343,5 @@
 |**Mathematical**|On Smoother Attributions using Neural Stochastic Differential Equations|[IJCAI 2021](https://www.ijcai.org/proceedings/2021/0073.pdf)|||
 |**AGI**|Explaining Deep Neural Network Models with Adversarial Gradient Integration|[IJCAI 2021](https://www.ijcai.org/proceedings/2021/0396.pdf)|[PyTorch](https://github.com/pd90506/AGI)||
 |**Accountable attribution**|Longitudinal Distance: Towards Accountable Instance Attribution|[Arxiv](https://arxiv.org/pdf/2108.10437.pdf)|[Tensorflow Keras](https://github.com/Rosinaweber/LongitudinalDistances)||
+|**Global explanation**|Understanding of Kernels in CNN Models by Suppressing Irrelevant Visual Features in Images|[Arxiv](https://arxiv.org/pdf/2108.11054.pdf)|||
+|**Concepts based - Explainable by design**|Inducing Semantic Grouping of Latent Concepts for Explanations: An Ante-Hoc Approach|[Arxiv](https://arxiv.org/pdf/2108.11761.pdf)||IITH Vineeth sir group|
