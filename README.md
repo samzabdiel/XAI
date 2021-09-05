@@ -6,7 +6,7 @@
 * [AIX360](https://github.com/Trusted-AI/AIX360)
 * [ALIBI - Python XAI toolkit](https://github.com/SeldonIO/alibi)
 * [ Proceedings of ICML 2021 Workshop on Theoretic Foundation, Criticism, and Application Trend of Explainable AI](https://arxiv.org/html/2107.08821)
-* [Neurocartography](https://arxiv.org/pdf/2108.12931.pdf)[Tool](https://poloclub.github.io/neuro-cartography/) - Global explanation - Neuron level visualization
+* [Neurocartography](https://arxiv.org/pdf/2108.12931.pdf)-[Tool](https://poloclub.github.io/neuro-cartography/) - Global explanation - Neuron level visualization
 
 ## Papers and code of Explainable AI esp. w.r.t. Image classificiation
 
