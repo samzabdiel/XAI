@@ -347,3 +347,4 @@
 |**Global explanation**|Understanding of Kernels in CNN Models by Suppressing Irrelevant Visual Features in Images|[Arxiv](https://arxiv.org/pdf/2108.11054.pdf)|||
 |**Concepts based - Explainable by design**|Inducing Semantic Grouping of Latent Concepts for Explanations: An Ante-Hoc Approach|[Arxiv](https://arxiv.org/pdf/2108.11761.pdf)||IITH Vineeth sir group|
 |**Explainable by design**|This looks more like that: Enhancing Self-Explaining Models by Prototypical Relevance Propagation|[Arxiv](https://arxiv.org/pdf/2108.12204.pdf)|||
+|**MIL**|ProtoMIL: Multiple Instance Learning with Prototypical Parts for Fine-Grained Interpretability|[Arxiv](https://arxiv.org/pdf/2108.10612.pdf)|||
