@@ -348,3 +348,6 @@
 |**Concepts based - Explainable by design**|Inducing Semantic Grouping of Latent Concepts for Explanations: An Ante-Hoc Approach|[Arxiv](https://arxiv.org/pdf/2108.11761.pdf)||IITH Vineeth sir group|
 |**Explainable by design**|This looks more like that: Enhancing Self-Explaining Models by Prototypical Relevance Propagation|[Arxiv](https://arxiv.org/pdf/2108.12204.pdf)|||
 |**MIL**|ProtoMIL: Multiple Instance Learning with Prototypical Parts for Fine-Grained Interpretability|[Arxiv](https://arxiv.org/pdf/2108.10612.pdf)|||
+|**Concept based explanations**|Instance-wise or Class-wise? A Tale of Neighbor Shapley for Concept-based Explanation|[Arxiv](https://arxiv.org/pdf/2109.01369.pdf)|||
+|**Counterfactual explanation + Theory of Mind**|CX-ToM: Counterfactual Explanations with Theory-of-Mind for Enhancing Human Trust in Image Recognition Models|[Arxiv](https://arxiv.org/pdf/2109.01401.pdf)|||
+|**Evaluation metric**|Counterfactual Evaluation for Explainable AI|[Arxiv](https://arxiv.org/pdf/2109.01962.pdf)|||
