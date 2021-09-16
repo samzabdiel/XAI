@@ -352,3 +352,4 @@
 |**Counterfactual explanation + Theory of Mind**|CX-ToM: Counterfactual Explanations with Theory-of-Mind for Enhancing Human Trust in Image Recognition Models|[Arxiv](https://arxiv.org/pdf/2109.01401.pdf)|||
 |**Evaluation metric**|Counterfactual Evaluation for Explainable AI|[Arxiv](https://arxiv.org/pdf/2109.01962.pdf)|||
 |**CIM - FSC**|CIM: Class-Irrelevant Mapping for Few-Shot Classification|[Arxiv](https://arxiv.org/pdf/2109.02840.pdf)|||
+|**Causal Concepts**|Unsupervised Causal Binary Concepts Discovery with VAE for Black-box Model Explanation|[Arxiv](https://arxiv.org/pdf/2109.04518.pdf)|||
