@@ -353,3 +353,5 @@
 |**Evaluation metric**|Counterfactual Evaluation for Explainable AI|[Arxiv](https://arxiv.org/pdf/2109.01962.pdf)|||
 |**CIM - FSC**|CIM: Class-Irrelevant Mapping for Few-Shot Classification|[Arxiv](https://arxiv.org/pdf/2109.02840.pdf)|||
 |**Causal Concepts**|Unsupervised Causal Binary Concepts Discovery with VAE for Black-box Model Explanation|[Arxiv](https://arxiv.org/pdf/2109.04518.pdf)|||
+|**ECE**|Ensemble of Counterfactual Explainers|[Paper](http://pages.di.unipi.it/ruggieri/Papers/ds2021.pdf)|[Code - seems hybrid of tf and torch](https://github.com/riccotti/ECE)||
+
