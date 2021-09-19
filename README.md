@@ -357,3 +357,4 @@
 |**Structured Explanations**|From Heatmaps to Structured Explanations of Image Classifiers|[Arxiv](https://arxiv.org/pdf/2109.06365.pdf)|||
 |**XAI metric**|An Objective Metric for Explainable AI - How and Why to Estimate the Degree of Explainability|[Arxiv](https://arxiv.org/pdf/2109.05327.pdf)|||
 |**DisCERN**|DisCERN:Discovering Counterfactual Explanations using Relevance Features from Neighbourhoods|[Arxiv](https://arxiv.org/pdf/2109.05800.pdf)|||
+|**PSEM**|Towards Better Model Understanding with Path-Sufficient Explanations|[Arxiv](https://arxiv.org/pdf/2109.06181.pdf)||Amit Dhurandhar sir group|
