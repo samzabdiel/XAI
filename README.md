@@ -360,3 +360,4 @@
 |**PSEM**|Towards Better Model Understanding with Path-Sufficient Explanations|[Arxiv](https://arxiv.org/pdf/2109.06181.pdf)||Amit Dhurandhar sir group|
 |**Evaluation traps**|The Logic Traps in Evaluating Post-hoc Interpretations|[Arxiv](https://arxiv.org/pdf/2109.05463.pdf)|||
 |**Interactive explanations**|Explainability Requires Interactivity|[Arxiv](https://arxiv.org/pdf/2109.07869.pdf)|[PyTorch](https://github.com/HealthML/explainability-requires-interactivity)||
+|**CounterNet**|CounterNet: End-to-End Training of Counterfactual Aware Predictions|[Arxiv](https://arxiv.org/pdf/2109.07557.pdf)|[PyTorch](https://github.com/BirkhoffG/counternet)||
