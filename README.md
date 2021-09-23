@@ -364,3 +364,5 @@
 |**Evaluation metric - Concept based explanation**|Detection Accuracy for Evaluating Compositional Explanations of Units|[Arxiv](https://arxiv.org/pdf/2109.07804.pdf)|||
 |**Explanation - Uncertainity**|Effects of Uncertainty on the Quality of Feature Importance Explanations|[Arxiv](https://umangsbhatt.github.io/reports/AAAI_XAI_QB.pdf)|||
 |**Survey Paper**|TOWARDS USER-CENTRIC EXPLANATIONS FOR EXPLAINABLE MODELS: A REVIEW|[JISTM Journal Paper](http://www.jistm.com/PDF/JISTM-2021-22-09-04.pdf)|||
+|**Feature attribution**|The Struggles and Subjectivity of Feature-Based Explanations: Shapley Values vs. Minimal Sufficient Subsets|[AAAI 2021 workshop](https://arxiv.org/pdf/2009.11023.pdf)|||
+
