@@ -368,3 +368,4 @@
 |**Contextual explanation**|Context-based image explanations for deep neural networks|[Image and Vision Computing Journal](https://www.sciencedirect.com/science/article/pii/S0262885621002158)|||
 |**Causal + Counterfactual**|Counterfactual Instances Explain Little|[Arxiv](https://arxiv.org/pdf/2109.09809.pdf)|||
 |**Case based Posthoc**|Explaining Deep Learning using examples: Optimal feature weighting methods for twin systems using post-hoc, explanation-by-example in XAI|[Elsevier](https://www.sciencedirect.com/science/article/pii/S0950705121007929)|||
+|**Debugging gray box model**|Toward a Unified Framework for Debugging Gray-box Models|[Arxiv](https://arxiv.org/pdf/2109.11160.pdf)|||
