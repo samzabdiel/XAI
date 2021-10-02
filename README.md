@@ -369,3 +369,5 @@
 |**Causal + Counterfactual**|Counterfactual Instances Explain Little|[Arxiv](https://arxiv.org/pdf/2109.09809.pdf)|||
 |**Case based Posthoc**|Explaining Deep Learning using examples: Optimal feature weighting methods for twin systems using post-hoc, explanation-by-example in XAI|[Elsevier](https://www.sciencedirect.com/science/article/pii/S0950705121007929)|||
 |**Debugging gray box model**|Toward a Unified Framework for Debugging Gray-box Models|[Arxiv](https://arxiv.org/pdf/2109.11160.pdf)|||
+|**Explainable by design**|Optimising for Interpretability: Convolutional Dynamic Alignment Networks|[Arxiv](https://arxiv.org/pdf/2109.13004.pdf)|||
+|**XAI negative effect**|Explainability Pitfalls: Beyond Dark Patterns in Explainable AI|[Arxiv](https://arxiv.org/pdf/2109.12480.pdf)|||
