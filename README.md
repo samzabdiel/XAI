@@ -371,3 +371,5 @@
 |**Debugging gray box model**|Toward a Unified Framework for Debugging Gray-box Models|[Arxiv](https://arxiv.org/pdf/2109.11160.pdf)|||
 |**Explainable by design**|Optimising for Interpretability: Convolutional Dynamic Alignment Networks|[Arxiv](https://arxiv.org/pdf/2109.13004.pdf)|||
 |**XAI negative effect**|Explainability Pitfalls: Beyond Dark Patterns in Explainable AI|[Arxiv](https://arxiv.org/pdf/2109.12480.pdf)|||
+|**Evaluate attributions**|WHO EXPLAINS THE EXPLANATION? QUANTITATIVELY ASSESSING FEATURE ATTRIBUTION METHODS|[Arxiv](https://arxiv.org/pdf/2109.15035.pdf)|||
+|**Counterfactual explanations**|Designing Counterfactual Generators using Deep Model Inversion|[Arxiv](https://arxiv.org/pdf/2109.14274.pdf)|||
