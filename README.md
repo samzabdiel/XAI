@@ -373,3 +373,4 @@
 |**XAI negative effect**|Explainability Pitfalls: Beyond Dark Patterns in Explainable AI|[Arxiv](https://arxiv.org/pdf/2109.12480.pdf)|||
 |**Evaluate attributions**|WHO EXPLAINS THE EXPLANATION? QUANTITATIVELY ASSESSING FEATURE ATTRIBUTION METHODS|[Arxiv](https://arxiv.org/pdf/2109.15035.pdf)|||
 |**Counterfactual explanations**|Designing Counterfactual Generators using Deep Model Inversion|[Arxiv](https://arxiv.org/pdf/2109.14274.pdf)|||
+|**Visualize feature maps**|Visualizing Feature Maps for Model Selection in Convolutional Neural Networks|[ICCV 2021 Workshop](https://openaccess.thecvf.com/content/ICCV2021W/CVPPA/papers/Mostafa_Visualizing_Feature_Maps_for_Model_Selection_in_Convolutional_Neural_Networks_ICCVW_2021_paper.pdf)|[Tensorflow 1.15](https://github.com/SakibMostafa/CVPPA_PID_0041)||
