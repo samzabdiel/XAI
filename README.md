@@ -382,3 +382,4 @@
 |**IBA**|Fine-Grained Neural Network Explanation by Identifying Input Features with Predictive Information|[NeurIPS 2021](https://arxiv.org/pdf/2110.01471.pdf)|[PyTorch](https://github.com/CAMP-eXplain-AI/InputIBA)||
 |**Looks similar to This Looks Like That**|Interpretable Image Recognition by Constructing Transparent Embedding Space|[ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Interpretable_Image_Recognition_by_Constructing_Transparent_Embedding_Space_ICCV_2021_paper.pdf)|[Code not yet publicly released](https://github.com/JackeyWang96/TesNet)||
 |**Causal Imagenet**|CAUSAL IMAGENET: HOW TO DISCOVER SPURIOUS FEATURES IN DEEP LEARNING?|[Arxiv](https://arxiv.org/pdf/2110.04301.pdf)|||
+|**Model correction**|Logic Constraints to Feature Importances|[Arxiv](https://arxiv.org/pdf/2110.06596.pdf)|||
