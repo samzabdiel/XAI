@@ -7,6 +7,7 @@
 * [ALIBI - Python XAI toolkit](https://github.com/SeldonIO/alibi)
 * [ Proceedings of ICML 2021 Workshop on Theoretic Foundation, Criticism, and Application Trend of Explainable AI](https://arxiv.org/html/2107.08821)
 * [Neurocartography](https://arxiv.org/pdf/2108.12931.pdf)-[Tool](https://poloclub.github.io/neuro-cartography/) - Global explanation - Neuron level visualization
+* [TorchEsegata](https://arxiv.org/pdf/2110.08429.pdf)- [Github repository](https://github.com/soumickmj/TorchEsegeta)
 
 ## Papers and code of Explainable AI esp. w.r.t. Image classificiation
 
