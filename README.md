@@ -385,3 +385,4 @@
 |**Causal Imagenet**|CAUSAL IMAGENET: HOW TO DISCOVER SPURIOUS FEATURES IN DEEP LEARNING?|[Arxiv](https://arxiv.org/pdf/2110.04301.pdf)|||
 |**Model correction**|Logic Constraints to Feature Importances|[Arxiv](https://arxiv.org/pdf/2110.06596.pdf)|||
 |**Receptive field Misalignment CAM**|On the Receptive Field Misalignment in CAM-based Visual Explanations|[Pattern recognition Letters](https://www.sciencedirect.com/science/article/abs/pii/S0167865521003810)|[PyTorch](https://github.com/xpf/CAM-Adversarial-Marginal-Attack)||
+|**Simplex**|Explaining Latent Representations with a Corpus of Examples|[Arxiv](https://arxiv.org/pdf/2110.15355.pdf)|[PyTorch](https://github.com/JonathanCrabbe/Simplex)||
