@@ -387,3 +387,4 @@
 |**Receptive field Misalignment CAM**|On the Receptive Field Misalignment in CAM-based Visual Explanations|[Pattern recognition Letters](https://www.sciencedirect.com/science/article/abs/pii/S0167865521003810)|[PyTorch](https://github.com/xpf/CAM-Adversarial-Marginal-Attack)||
 |**Simplex**|Explaining Latent Representations with a Corpus of Examples|[Arxiv](https://arxiv.org/pdf/2110.15355.pdf)|[PyTorch](https://github.com/JonathanCrabbe/Simplex)||
 |**Sanity checks**|Revisiting Sanity Checks for Saliency Maps|[Arxiv - NeurIPS 2021 workshop](https://arxiv.org/pdf/2110.14297.pdf)|||
+|**Model correction**|Debugging the Internals of Convolutional Networks|[PDF](https://openreview.net/pdf?id=0YRkrxe2blh)|||
