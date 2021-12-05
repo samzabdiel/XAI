@@ -8,7 +8,7 @@
 * [ Proceedings of ICML 2021 Workshop on Theoretic Foundation, Criticism, and Application Trend of Explainable AI](https://arxiv.org/html/2107.08821)
 * [Neurocartography](https://arxiv.org/pdf/2108.12931.pdf)-[Tool](https://poloclub.github.io/neuro-cartography/) - Global explanation - Neuron level visualization
 * [TorchEsegata](https://arxiv.org/pdf/2110.08429.pdf)- [Github repository](https://github.com/soumickmj/TorchEsegeta)
-
+* [Tutorials](https://www.researchgate.net/profile/Manil-Shrestha/publication/355911055_Explainable_AI_Tutorial/links/6183d8660be8ec17a96cb72f/Explainable-AI-Tutorial.pdf)
 ## Papers and code of Explainable AI esp. w.r.t. Image classificiation
 
 
