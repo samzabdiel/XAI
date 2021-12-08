@@ -392,3 +392,4 @@
 |**Influential examples**|Revisiting Methods for Finding Influential Examples|[Arxiv](https://arxiv.org/pdf/2111.04683.pdf)|||
 |**SOBOL**|Look at the Variance! Efficient Black-box Explanations with Sobol-based Sensitivity Analysis|[NeurIPS 2021](https://arxiv.org/pdf/2111.04138.pdf)|[Tensorflow and PyTorch](https://github.com/fel-thomas/Sobol-Attribution-Method)||
 |**Feature vectors**|Beyond Importance Scores: Interpreting Tabular ML by Visualizing Feature Semantics|[Arxiv](https://arxiv.org/pdf/2111.05898.pdf)||global interpretability|
+|**OOD in explainability**|The Out-of-Distribution Problem in Explainability and Search Methods for Feature Importance Explanations|[NeurIPS 2021](https://papers.nips.cc/paper/2021/file/1def1713ebf17722cbe300cfc1c88558-Paper.pdf)|[sklearn](https://github.com/peterbhase/ExplanationSearch)||
