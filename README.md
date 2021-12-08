@@ -389,3 +389,4 @@
 |**Sanity checks**|Revisiting Sanity Checks for Saliency Maps|[Arxiv - NeurIPS 2021 workshop](https://arxiv.org/pdf/2110.14297.pdf)|||
 |**Model correction**|Debugging the Internals of Convolutional Networks|[PDF](https://openreview.net/pdf?id=0YRkrxe2blh)|||
 |**SITE**|Self-Interpretable Model with Transformation Equivariant Interpretation|[Arxiv](https://arxiv.org/pdf/2111.04927.pdf)|Accepted at NeurIPS 2021|EbD|
+|**Influential examples**|Revisiting Methods for Finding Influential Examples|[Arxiv](https://arxiv.org/pdf/2111.04683.pdf)|||
