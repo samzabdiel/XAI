@@ -396,3 +396,4 @@
 |**RPS LJE**|Representer Point Selection via Local Jacobian Expansion for Post-hoc Classifier Explanation of Deep Neural Networks and Ensemble Models|[NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/file/c460dc0f18fc309ac07306a4a55d2fd6-Paper.pdf)|[PyTorch](https://github.com/echoyi/RPS_LJE)||
 |**Model correction**|Editing a Classifier by Rewriting Its Prediction Rules|[NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/file/c46489a2d5a9a9ecfc53b17610926ddd-Paper.pdf)|[Code](https://github.com/MadryLab/EditingClassifiers)||
 |**suppressor variable litmus test**|Scrutinizing XAI using linear ground-truth data with suppressor variables|[Arxiv](https://arxiv.org/pdf/2111.07473.pdf)|||
+|**Explainable knowledge distillation**|Learning Interpretation with Explainable Knowledge Distillation|[Arxiv](https://arxiv.org/pdf/2111.06945.pdf)|||
