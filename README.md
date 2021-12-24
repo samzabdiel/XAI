@@ -397,3 +397,4 @@
 |**Model correction**|Editing a Classifier by Rewriting Its Prediction Rules|[NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/file/c46489a2d5a9a9ecfc53b17610926ddd-Paper.pdf)|[Code](https://github.com/MadryLab/EditingClassifiers)||
 |**suppressor variable litmus test**|Scrutinizing XAI using linear ground-truth data with suppressor variables|[Arxiv](https://arxiv.org/pdf/2111.07473.pdf)|||
 |**Explainable knowledge distillation**|Learning Interpretation with Explainable Knowledge Distillation|[Arxiv](https://arxiv.org/pdf/2111.06945.pdf)|||
+|**STEEX**|STEEX: Steering Counterfactual Explanations with Semantics|[Arxiv](https://arxiv.org/pdf/2111.09094.pdf)|[Code](https://github.com/valeoai/STEEX)||
