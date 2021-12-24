@@ -403,3 +403,4 @@
 |**Concept ball**|Ontology-based 𝑛-ball Concept Embeddings Informing Few-shot Image Classification|[Paper](http://lr2020.iit.demokritos.gr/online/IJCLR_2021_paper_9.pdf)|||
 |**SPARROW**|SPARROW: Semantically Coherent Prototypes for Image Classification|[BMVC 2021](https://www.bmvc2021-virtualconference.com/assets/papers/0896.pdf)|||
 |**XAI evaluation criteria**|Objective criteria for explanations of machine learning models|[Paper](https://onlinelibrary.wiley.com/doi/pdf/10.1002/ail2.57)|||
+|**Code inversion with human perception**|EXPLORING ALIGNMENT OF REPRESENTATIONS WITH HUMAN PERCEPTION|[Arxiv](https://arxiv.org/pdf/2111.14726.pdf)|||
