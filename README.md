@@ -398,3 +398,4 @@
 |**suppressor variable litmus test**|Scrutinizing XAI using linear ground-truth data with suppressor variables|[Arxiv](https://arxiv.org/pdf/2111.07473.pdf)|||
 |**Explainable knowledge distillation**|Learning Interpretation with Explainable Knowledge Distillation|[Arxiv](https://arxiv.org/pdf/2111.06945.pdf)|||
 |**STEEX**|STEEX: Steering Counterfactual Explanations with Semantics|[Arxiv](https://arxiv.org/pdf/2111.09094.pdf)|[Code](https://github.com/valeoai/STEEX)||
+|**concept based explanation**|Explanations in terms of Hierarchically organised Middle Level Features|[Paper](http://ceur-ws.org/Vol-3014/paper4.pdf)||see how close to MACE and PACE|
