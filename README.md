@@ -401,3 +401,5 @@
 |**ECLAIRE**|Efficient Decompositional Rule Extraction for Deep Neural Networks|[Arxiv](https://arxiv.org/pdf/2111.12628.pdf)|[R](https://github.com/mateoespinosa/remix)||
 |**concept based explanation**|Explanations in terms of Hierarchically organised Middle Level Features|[Paper](http://ceur-ws.org/Vol-3014/paper4.pdf)||see how close to MACE and PACE|
 |**Concept ball**|Ontology-based 𝑛-ball Concept Embeddings Informing Few-shot Image Classification|[Paper](http://lr2020.iit.demokritos.gr/online/IJCLR_2021_paper_9.pdf)|||
+|**SPARROW**|SPARROW: Semantically Coherent Prototypes for Image Classification|[BMVC 2021](https://www.bmvc2021-virtualconference.com/assets/papers/0896.pdf)|||
+|**XAI evaluation criteria**|Objective criteria for explanations of machine learning models|[Paper](https://onlinelibrary.wiley.com/doi/pdf/10.1002/ail2.57)|||
