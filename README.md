@@ -404,3 +404,4 @@
 |**SPARROW**|SPARROW: Semantically Coherent Prototypes for Image Classification|[BMVC 2021](https://www.bmvc2021-virtualconference.com/assets/papers/0896.pdf)|||
 |**XAI evaluation criteria**|Objective criteria for explanations of machine learning models|[Paper](https://onlinelibrary.wiley.com/doi/pdf/10.1002/ail2.57)|||
 |**Code inversion with human perception**|EXPLORING ALIGNMENT OF REPRESENTATIONS WITH HUMAN PERCEPTION|[Arxiv](https://arxiv.org/pdf/2111.14726.pdf)|||
+|**Deformable ProtoPNet**|Deformable ProtoPNet: An Interpretable Image Classifier Using Deformable Prototypes|[Arxiv](https://arxiv.org/pdf/2111.15000.pdf)|||
