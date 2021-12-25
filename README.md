@@ -400,6 +400,7 @@
 |**STEEX**|STEEX: Steering Counterfactual Explanations with Semantics|[Arxiv](https://arxiv.org/pdf/2111.09094.pdf)|[Code](https://github.com/valeoai/STEEX)||
 |**Binary counterfactual explanation**|Counterfactual Explanations via Latent Space Projection and Interpolation|[Arxiv](https://arxiv.org/pdf/2112.00890.pdf)|||
 |**ECLAIRE**|Efficient Decompositional Rule Extraction for Deep Neural Networks|[Arxiv](https://arxiv.org/pdf/2111.12628.pdf)|[R](https://github.com/mateoespinosa/remix)||
+|**CartoonX**|Cartoon Explanations of Image Classifiers|[Researchgate](https://www.researchgate.net/profile/Stefan_Kolek2/publication/355141871_Cartoon_Explanations_of_Image_Classifiers/links/61961936d7d1af224b0158bf/Cartoon-Explanations-of-Image-Classifiers.pdf)|||
 |**concept based explanation**|Explanations in terms of Hierarchically organised Middle Level Features|[Paper](http://ceur-ws.org/Vol-3014/paper4.pdf)||see how close to MACE and PACE|
 |**Concept ball**|Ontology-based 𝑛-ball Concept Embeddings Informing Few-shot Image Classification|[Paper](http://lr2020.iit.demokritos.gr/online/IJCLR_2021_paper_9.pdf)|||
 |**SPARROW**|SPARROW: Semantically Coherent Prototypes for Image Classification|[BMVC 2021](https://www.bmvc2021-virtualconference.com/assets/papers/0896.pdf)|||
