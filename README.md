@@ -406,3 +406,6 @@
 |**XAI evaluation criteria**|Objective criteria for explanations of machine learning models|[Paper](https://onlinelibrary.wiley.com/doi/pdf/10.1002/ail2.57)|||
 |**Code inversion with human perception**|EXPLORING ALIGNMENT OF REPRESENTATIONS WITH HUMAN PERCEPTION|[Arxiv](https://arxiv.org/pdf/2111.14726.pdf)|||
 |**Deformable ProtoPNet**|Deformable ProtoPNet: An Interpretable Image Classifier Using Deformable Prototypes|[Arxiv](https://arxiv.org/pdf/2111.15000.pdf)|||
+|**ICSN**|Interactive Disentanglement: Learning Concepts by Interacting with their Prototype Representations|[Arxiv](https://arxiv.org/pdf/2112.02290.pdf)|||
+|**HIVE**|HIVE: Evaluating the Human Interpretability of Visual Explanations|[Arxiv](https://arxiv.org/pdf/2112.03184.pdf)|[Project Page](https://princetonvisualai.github.io/HIVE/)||
+
