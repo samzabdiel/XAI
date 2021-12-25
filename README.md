@@ -408,4 +408,4 @@
 |**Deformable ProtoPNet**|Deformable ProtoPNet: An Interpretable Image Classifier Using Deformable Prototypes|[Arxiv](https://arxiv.org/pdf/2111.15000.pdf)|||
 |**ICSN**|Interactive Disentanglement: Learning Concepts by Interacting with their Prototype Representations|[Arxiv](https://arxiv.org/pdf/2112.02290.pdf)|||
 |**HIVE**|HIVE: Evaluating the Human Interpretability of Visual Explanations|[Arxiv](https://arxiv.org/pdf/2112.03184.pdf)|[Project Page](https://princetonvisualai.github.io/HIVE/)||
-
+|**Jitter CAM**|Jitter-CAM: Improving the Spatial Resolution of CAM-Based Explanations|[BMVC 2021](https://www.bmvc2021-virtualconference.com/assets/papers/0514.pdf)|[PyTorch](https://github.com/HartleyTW/Jitter-CAM)||
