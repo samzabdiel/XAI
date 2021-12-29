@@ -413,3 +413,4 @@
 |**HIVE**|HIVE: Evaluating the Human Interpretability of Visual Explanations|[Arxiv](https://arxiv.org/pdf/2112.03184.pdf)|[Project Page](https://princetonvisualai.github.io/HIVE/)||
 |**Jitter CAM**|Jitter-CAM: Improving the Spatial Resolution of CAM-Based Explanations|[BMVC 2021](https://www.bmvc2021-virtualconference.com/assets/papers/0514.pdf)|[PyTorch](https://github.com/HartleyTW/Jitter-CAM)||
 |**Interpreting last layer**|dentifying Class Specific Filters with L1 Norm Frequency Histograms in Deep CNNs|[Arxiv](https://arxiv.org/pdf/2112.07719.pdf)|||
+|**FCP**|Forward Composition Propagation for Explainable Neural Reasoning|[Arxiv](https://arxiv.org/pdf/2112.12717.pdf)|||
