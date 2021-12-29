@@ -9,6 +9,8 @@
 * [Neurocartography](https://arxiv.org/pdf/2108.12931.pdf)-[Tool](https://poloclub.github.io/neuro-cartography/) - Global explanation - Neuron level visualization
 * [TorchEsegata](https://arxiv.org/pdf/2110.08429.pdf)- [Github repository](https://github.com/soumickmj/TorchEsegeta)
 * [Tutorials](https://www.researchgate.net/profile/Manil-Shrestha/publication/355911055_Explainable_AI_Tutorial/links/6183d8660be8ec17a96cb72f/Explainable-AI-Tutorial.pdf)
+* [An alternative perspective on problems due to XAI] (https://www.researchgate.net/profile/Roman-Lukyanenko/publication/356587392_Explainable_AI_Opening_the_Black_Box_or_Pandora%27s_Box/links/61a27cc707be5f31b7bb3889/Explainable-AI-Opening-the-Black-Box-or-Pandoras-Box.pdf)
+
 ## Papers and code of Explainable AI esp. w.r.t. Image classificiation
 
 
