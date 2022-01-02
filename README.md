@@ -415,3 +415,4 @@
 |**Interpreting last layer**|dentifying Class Specific Filters with L1 Norm Frequency Histograms in Deep CNNs|[Arxiv](https://arxiv.org/pdf/2112.07719.pdf)|||
 |**FCP**|Forward Composition Propagation for Explainable Neural Reasoning|[Arxiv](https://arxiv.org/pdf/2112.12717.pdf)|||
 |**Protopool**|Interpretable Image Classification with Differentiable Prototypes Assignment|[Arxiv](https://arxiv.org/pdf/2112.02902.pdf)|||
+|**PRELIM**|Pedagogical Rule Extraction for Learning Interpretable Models|[Arxiv](https://arxiv.org/pdf/2112.13285.pdf)|||
