@@ -416,7 +416,7 @@
 |**FCP**|Forward Composition Propagation for Explainable Neural Reasoning|[Arxiv](https://arxiv.org/pdf/2112.12717.pdf)|||
 |**Protopool**|Interpretable Image Classification with Differentiable Prototypes Assignment|[Arxiv](https://arxiv.org/pdf/2112.02902.pdf)|||
 |**PRELIM**|Pedagogical Rule Extraction for Learning Interpretable Models|[Arxiv](https://arxiv.org/pdf/2112.13285.pdf)|||
-
+|**Fair correction vectors**|FAIR INTERPRETABLE LEARNING VIA CORRECTION VECTORS|[ICLR 2021](https://arxiv.org/pdf/2201.06343.pdf)|||
 
 ### 2022 Papers
 | Title | Paper Title                                                                                                 | Source Link                                                                                                                                                                                            | Code                                                                                          | Tags                                                             |
