@@ -446,3 +446,4 @@
 |**Hierarchical concepts**|Cause and Effect: Hierarchical Concept-based Explanation of Neural Networks|[Arxiv](https://42papers.co/pdf/2105.07033.pdf)|||
 |**Model correction by design**|LEARNING ROBUST CONVOLUTIONAL NEURAL NETWORKS WITH RELEVANT FEATURE FOCUSING VIA EXPLANATIONS|[Arxiv](https://arxiv.org/pdf/2202.04237.pdf)|||
 |**Concept discovery**|Discovering Concepts in Learned Representations using Statistical Inference and Interactive Visualization|[Arxiv](https://arxiv.org/pdf/2202.04753.pdf)|||
+|**Rare spurious correlation**|Understanding Rare Spurious Correlations in Neural Networks|[Arxiv](https://arxiv.org/pdf/2202.05189.pdf)|[PyTorch](https://github.com/yangarbiter/rare-spurious-correlation)||
