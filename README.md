@@ -432,3 +432,4 @@
 |**Explanatory learning**|EXPLANATORY LEARNING: BEYOND EMPIRICISM IN NEURAL NETWORKS|[Arxiv](https://arxiv.org/pdf/2201.10222.pdf)|||
 |**Conceptor CAM**|Conceptor Learning for Class Activation Mapping|[IEEE-TIP](https://arxiv.org/pdf/2201.08636.pdf)|||
 |**Classifier orthogonalization**|CONTROLLING DIRECTIONS ORTHOGONAL TO A CLASSIFIER|[ICLR 2022](https://openreview.net/forum?id=DIjCrlsu6Z)|[PyTorch](https://github.com/Newbeeer/orthogonal_classifier)|||
+|**Attention not explanation**|Attention cannot be an Explanation|[Arxiv](https://arxiv.org/pdf/2201.11194.pdf)|||
