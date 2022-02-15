@@ -435,3 +435,5 @@
 |**Attention not explanation**|Attention cannot be an Explanation|[Arxiv](https://arxiv.org/pdf/2201.11194.pdf)|||
 |**CNN sensitivity analysis**|A Comprehensive Study of Image Classification Model Sensitivity to Foregrounds, Backgrounds, and Visual Attributes|[Arxiv](https://arxiv.org/pdf/2201.10766.pdf)|||
 |**Trusting extrapolation**|To what extent should we trust AI models when they extrapolate?|[Arxiv](https://arxiv.org/pdf/2201.11260.pdf)|||
+|**LAP**|LAP: An Attention-Based Module for Faithful Interpretation and Knowledge Injection in Convolutional Neural Networks|[Arxiv](https://arxiv.org/pdf/2201.11808.pdf)||concept based explanations|
+
