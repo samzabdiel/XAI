@@ -441,3 +441,4 @@
 |**ROAD**|Evaluating Feature Attribution: An Information-Theoretic Perspective|[Arxiv](https://arxiv.org/pdf/2202.00449.pdf)|[PyTorch](https://github.com/tleemann/road_evaluation)||
 |**CBM-AUC**|Concept Bottleneck Model with Additional Unsupervised Concepts|[Arxiv](https://arxiv.org/pdf/2202.01459.pdf)|||
 |**Explainability as dialogue**|Rethinking Explainability as a Dialogue: A Practitioner’s Perspective|[Arxiv](https://arxiv.org/pdf/2202.01875.pdf)|||
+|**IAA**|Aligning Eyes between Humans and Deep Neural Network through Interactive Attention Alignment|[Arxiv](https://arxiv.org/pdf/2202.02838.pdf)|||
