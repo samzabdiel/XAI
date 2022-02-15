@@ -417,6 +417,7 @@
 |**Protopool**|Interpretable Image Classification with Differentiable Prototypes Assignment|[Arxiv](https://arxiv.org/pdf/2112.02902.pdf)|||
 |**PRELIM**|Pedagogical Rule Extraction for Learning Interpretable Models|[Arxiv](https://arxiv.org/pdf/2112.13285.pdf)|||
 |**Fair correction vectors**|FAIR INTERPRETABLE LEARNING VIA CORRECTION VECTORS|[ICLR 2021](https://arxiv.org/pdf/2201.06343.pdf)|||
+|**Smooth LRP**|SmoothLRP: Smoothing LRP by Averaging over Stochastic Input Variations|[ESANN 2021](https://web.archive.org/web/20211016101836id_/https://www.esann.org/sites/default/files/proceedings/2021/ES2021-139.pdf)|||
 
 ### 2022 Papers
 | Title | Paper Title                                                                                                 | Source Link                                                                                                                                                                                            | Code                                                                                          | Tags                                                             |
