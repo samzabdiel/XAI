@@ -426,3 +426,4 @@
 |**PCACE**|PCACE: A Statistical Approach to Ranking Neurons for CNN Interpretability|[Arxiv](https://arxiv.org/pdf/2112.15571.pdf)|||
 |**Evaluating Attribution methods**|Evaluating Attribution Methods in Machine Learning Interpretability|[IEEE International Conference on Big Data](https://ieeexplore.ieee.org/abstract/document/9671501)|||
 |**X-decision making**|Explainable Decision Making with Lean and Argumentative Explanations|[Arxiv](https://arxiv.org/pdf/2201.06692.pdf)|||
+|**Include domain knowledge to neural network**|A review of some techniques for inclusion of domain‑knowledge into deep neural networks|[Nature](https://www.nature.com/articles/s41598-021-04590-0.pdf)|||
