@@ -436,4 +436,5 @@
 |**CNN sensitivity analysis**|A Comprehensive Study of Image Classification Model Sensitivity to Foregrounds, Backgrounds, and Visual Attributes|[Arxiv](https://arxiv.org/pdf/2201.10766.pdf)|||
 |**Trusting extrapolation**|To what extent should we trust AI models when they extrapolate?|[Arxiv](https://arxiv.org/pdf/2201.11260.pdf)|||
 |**LAP**|LAP: An Attention-Based Module for Faithful Interpretation and Knowledge Injection in Convolutional Neural Networks|[Arxiv](https://arxiv.org/pdf/2201.11808.pdf)||concept based explanations|
+|**Saliency map evaluation metrics**|Metrics for saliency map evaluation of deep learning explanation methods|[Arxiv](https://arxiv.org/pdf/2201.13291.pdf)|||
 
