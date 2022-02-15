@@ -443,3 +443,5 @@
 |**Explainability as dialogue**|Rethinking Explainability as a Dialogue: A Practitioner’s Perspective|[Arxiv](https://arxiv.org/pdf/2202.01875.pdf)|||
 |**IAA**|Aligning Eyes between Humans and Deep Neural Network through Interactive Attention Alignment|[Arxiv](https://arxiv.org/pdf/2202.02838.pdf)|||
 |**Plug in**|A Novel Plug-in Module for Fine-Grained Visual Classification|[Arxiv](https://arxiv.org/pdf/2202.03822.pdf)|[PyTorch](https://github.com/chou141253/FGVC-PIM)||
+|**Hierarchical concepts**|Cause and Effect: Hierarchical Concept-based Explanation of Neural Networks|[Arxiv](https://42papers.co/pdf/2105.07033.pdf)|||
+|**Model correction by design**|LEARNING ROBUST CONVOLUTIONAL NEURAL NETWORKS WITH RELEVANT FEATURE FOCUSING VIA EXPLANATIONS|[Arxiv](https://arxiv.org/pdf/2202.04237.pdf)|||
