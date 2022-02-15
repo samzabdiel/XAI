@@ -439,3 +439,4 @@
 |**Saliency map evaluation metrics**|Metrics for saliency map evaluation of deep learning explanation methods|[Arxiv](https://arxiv.org/pdf/2201.13291.pdf)|||
 |**LINEX**|Locally Invariant Explanations: Towards Stable and Unidirectional Explanations through Local Invariant Learning|[Arxiv](https://arxiv.org/pdf/2201.12143.pdf)|||
 |**ROAD**|Evaluating Feature Attribution: An Information-Theoretic Perspective|[Arxiv](https://arxiv.org/pdf/2202.00449.pdf)|[PyTorch](https://github.com/tleemann/road_evaluation)||
+|**CBM-AUC**|Concept Bottleneck Model with Additional Unsupervised Concepts|[Arxiv](https://arxiv.org/pdf/2202.01459.pdf)|||
