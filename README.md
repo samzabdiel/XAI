@@ -458,3 +458,4 @@ Evaluation of Neural Network Explanations
 |**SIDU**|Visual Explanation of Black-Box Model : Similarity Difference and Uniqueness (SIDU) Method|[Pattern Recognition Journal](https://arxiv.org/pdf/2006.03122.pdf)|[Tensorflow 2.x](https://github.com/satyamahesh84/SIDU_XAI_CODE)||
 |**Causal explanations**|Trying to Outrun Causality in Machine Learning: Limitations of Model Explainability Techniques for Identifying Predictive Variables|[Arxiv](https://arxiv.org/pdf/2202.09875.pdf)|[sklearn](https://github.com/matthewvowels1/ML_structural_interactions)||
 |**Causal explanations**|Diffusion Causal Models for Counterfactual Estimation|[Arxiv](https://arxiv.org/pdf/2202.10166.pdf)|||
+|**Explainable representations**|Explaining, Evaluating and Enhancing Neural Networks’ Learned Representations|[Arxiv](https://arxiv.org/pdf/2202.09374.pdf)|||
