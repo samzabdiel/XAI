@@ -454,3 +454,5 @@ Evaluation of Neural Network Explanations
 |**Causal counterfactual**|REALISTIC COUNTERFACTUAL EXPLANATIONS BY LEARNED RELATIONS|[Arxiv](https://arxiv.org/pdf/2202.07356.pdf)|||
 |**Argumentative Causal explanation**|Forging Argumentative Explanations from Causal Models|[Paper](http://ceur-ws.org/Vol-3086/paper3.pdf)|||
 |**EVA**|Don’t Lie to Me! Robust and Efficient Explainability with Verified Perturbation Analysis|[Arxiv](https://arxiv.org/pdf/2202.07728.pdf)|||
+|**Conceptual modelling**|ConceptSuperimposition: Using Conceptual Modeling Method for Explainable AI|[Paper](https://www.researchgate.net/profile/Roman-Lukyanenko/publication/358702013_ConceptSuperimposition_Using_Conceptual_Modeling_Method_for_Explainable_AI/links/620fa2aef02286737ca95616/ConceptSuperimposition-Using-Conceptual-Modeling-Method-for-Explainable-AI.pdf)|||
+
