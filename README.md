@@ -420,6 +420,7 @@ Evaluation of Neural Network Explanations
 |**PRELIM**|Pedagogical Rule Extraction for Learning Interpretable Models|[Arxiv](https://arxiv.org/pdf/2112.13285.pdf)|||
 |**Fair correction vectors**|FAIR INTERPRETABLE LEARNING VIA CORRECTION VECTORS|[ICLR 2021](https://arxiv.org/pdf/2201.06343.pdf)|||
 |**Smooth LRP**|SmoothLRP: Smoothing LRP by Averaging over Stochastic Input Variations|[ESANN 2021](https://web.archive.org/web/20211016101836id_/https://www.esann.org/sites/default/files/proceedings/2021/ES2021-139.pdf)|||
+|**Causal CAM**|EXTRACTING CAUSAL VISUAL FEATURES FOR LIMITED LABEL CLASSIFICATION|[ICIP 2021](https://arxiv.org/pdf/2103.12322.pdf)|||
 
 ### 2022 Papers
 | Title | Paper Title                                                                                                 | Source Link                                                                                                                                                                                            | Code                                                                                          | Tags                                                             |
@@ -457,6 +458,7 @@ Evaluation of Neural Network Explanations
 |**Conceptual modelling**|ConceptSuperimposition: Using Conceptual Modeling Method for Explainable AI|[Paper](https://www.researchgate.net/profile/Roman-Lukyanenko/publication/358702013_ConceptSuperimposition_Using_Conceptual_Modeling_Method_for_Explainable_AI/links/620fa2aef02286737ca95616/ConceptSuperimposition-Using-Conceptual-Modeling-Method-for-Explainable-AI.pdf)|||
 |**SIDU**|Visual Explanation of Black-Box Model : Similarity Difference and Uniqueness (SIDU) Method|[Pattern Recognition Journal](https://arxiv.org/pdf/2006.03122.pdf)|[Tensorflow 2.x](https://github.com/satyamahesh84/SIDU_XAI_CODE)||
 |**Explainable representations**|Explaining, Evaluating and Enhancing Neural Networks’ Learned Representations|[Arxiv](https://arxiv.org/pdf/2202.09374.pdf)|||
+|**XAI Overview**|Explanatory Paradigms in Neural Networks|[Arxiv](https://arxiv.org/pdf/2202.11838.pdf)|||
 |**Causal explanations**|Trying to Outrun Causality in Machine Learning: Limitations of Model Explainability Techniques for Identifying Predictive Variables|[Arxiv](https://arxiv.org/pdf/2202.09875.pdf)|[sklearn](https://github.com/matthewvowels1/ML_structural_interactions)||
 |**Causal explanations**|Diffusion Causal Models for Counterfactual Estimation|[Arxiv](https://arxiv.org/pdf/2202.10166.pdf)|||
 |**Causal inferencen influence functions**|A Free Lunch with Influence Functions? Improving Neural Network Estimates with Concepts from Semiparametric Statistics|[Arxiv](https://arxiv.org/pdf/2202.09096.pdf)|[PyTorch](https://github.com/matthewvowels1/semiparametrics_and_NNs_release/)||
