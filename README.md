@@ -460,7 +460,9 @@ Evaluation of Neural Network Explanations
 |**Explainable representations**|Explaining, Evaluating and Enhancing Neural Networks’ Learned Representations|[Arxiv](https://arxiv.org/pdf/2202.09374.pdf)|||
 |**XAI Overview**|Explanatory Paradigms in Neural Networks|[Arxiv](https://arxiv.org/pdf/2202.11838.pdf)|||
 |**Evaluating attribution methods**|Evaluating Feature Attribution Methods in the Image Domain|[Arxiv](https://arxiv.org/pdf/2202.12270.pdf)|[PyTorch](https://github.com/zoeparman/benchmark-general-imaging)||
+|**Prototype vector + perturbation**|The Need for Empirical Evaluation of Explanation Quality|[Arxiv](https://hal.archives-ouvertes.fr/hal-03591012/document)|||
 |**Causal explanations**|Trying to Outrun Causality in Machine Learning: Limitations of Model Explainability Techniques for Identifying Predictive Variables|[Arxiv](https://arxiv.org/pdf/2202.09875.pdf)|[sklearn](https://github.com/matthewvowels1/ML_structural_interactions)||
 |**Causal explanations**|Diffusion Causal Models for Counterfactual Estimation|[Arxiv](https://arxiv.org/pdf/2202.10166.pdf)|||
-|**Causal inferencen influence functions**|A Free Lunch with Influence Functions? Improving Neural Network Estimates with Concepts from Semiparametric Statistics|[Arxiv](https://arxiv.org/pdf/2202.09096.pdf)|[PyTorch](https://github.com/matthewvowels1/semiparametrics_and_NNs_release/)||
-
+|**Causal inference influence functions**|A Free Lunch with Influence Functions? Improving Neural Network Estimates with Concepts from Semiparametric Statistics|[Arxiv](https://arxiv.org/pdf/2202.09096.pdf)|[PyTorch](https://github.com/matthewvowels1/semiparametrics_and_NNs_release/)||
+|**Causal discovery**|Causal discovery for observational sciences using supervised machine learning|[Arxiv](https://arxiv.org/pdf/2202.12813.pdf)|||
+|**Causal DA**|Causal Domain Adaptation with Copula Entropy based Conditional Independence Test|[Arxiv](https://arxiv.org/pdf/2202.13482.pdf)|||
