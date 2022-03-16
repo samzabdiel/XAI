@@ -461,6 +461,7 @@ Evaluation of Neural Network Explanations
 |**XAI Overview**|Explanatory Paradigms in Neural Networks|[Arxiv](https://arxiv.org/pdf/2202.11838.pdf)|||
 |**Evaluating attribution methods**|Evaluating Feature Attribution Methods in the Image Domain|[Arxiv](https://arxiv.org/pdf/2202.12270.pdf)|[PyTorch](https://github.com/zoeparman/benchmark-general-imaging)||
 |**Prototype vector + perturbation**|The Need for Empirical Evaluation of Explanation Quality|[Arxiv](https://hal.archives-ouvertes.fr/hal-03591012/document)|||
+|**ADVISE**|ADVISE: ADaptive Feature Relevance and VISual Explanations for Convolutional Neural Networks|[Arxiv](https://arxiv.org/pdf/2203.01289.pdf)|[Matlab](https://github.com/dehshibi/ADVISE)||
 |**Causal explanations**|Trying to Outrun Causality in Machine Learning: Limitations of Model Explainability Techniques for Identifying Predictive Variables|[Arxiv](https://arxiv.org/pdf/2202.09875.pdf)|[sklearn](https://github.com/matthewvowels1/ML_structural_interactions)||
 |**Causal explanations**|Diffusion Causal Models for Counterfactual Estimation|[Arxiv](https://arxiv.org/pdf/2202.10166.pdf)|||
 |**Causal inference influence functions**|A Free Lunch with Influence Functions? Improving Neural Network Estimates with Concepts from Semiparametric Statistics|[Arxiv](https://arxiv.org/pdf/2202.09096.pdf)|[PyTorch](https://github.com/matthewvowels1/semiparametrics_and_NNs_release/)||
