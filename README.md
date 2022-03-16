@@ -470,3 +470,4 @@ Evaluation of Neural Network Explanations
 |**Causal inference influence functions**|A Free Lunch with Influence Functions? Improving Neural Network Estimates with Concepts from Semiparametric Statistics|[Arxiv](https://arxiv.org/pdf/2202.09096.pdf)|[PyTorch](https://github.com/matthewvowels1/semiparametrics_and_NNs_release/)||
 |**Causal discovery**|Causal discovery for observational sciences using supervised machine learning|[Arxiv](https://arxiv.org/pdf/2202.12813.pdf)|||
 |**Causal DA**|Causal Domain Adaptation with Copula Entropy based Conditional Independence Test|[Arxiv](https://arxiv.org/pdf/2202.13482.pdf)|||
+|**Causal experimental design**|Interventions, Where and How? Experimental Design for Causal Models at Scale|[Arxiv](https://arxiv.org/pdf/2203.02016.pdf)||seems ICML format|
