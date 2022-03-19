@@ -465,6 +465,7 @@ Evaluation of Neural Network Explanations
 |**Improving Grad CAM**|Improving the Interpretability of GradCAMs in Deep Classification Networks|[Science Direct](https://www.sciencedirect.com/science/article/pii/S1877050922002691/pdf?md5=1195965dd3afbb359c910ef571d29720&pid=1-s2.0-S1877050922002691-main.pdf)|||
 |**Explainable by design**|Interpretable part-whole hierarchies and conceptual-semantic relationships in neural networks|[CVPR 2022](https://arxiv.org/pdf/2203.03282.pdf)|[PyTorch](https://github.com/mmlab-cv/Agglomerator)||
 |**CAMP**|Do Explanations Explain? Model Knows Best|[Arxiv](https://arxiv.org/pdf/2203.02269.pdf)|[PyTorch](https://github.com/CAMP-eXplain-AI/Do-Explanations-Explain)||
+|**Attribution stability**|RETHINKING STABILITY FOR ATTRIBUTION-BASED EXPLANATIONS|[Arxiv](https://arxiv.org/pdf/2203.06877.pdf)|||
 |**SSSCD**|Sparse Subspace Clustering for Concept Discovery (SSCCD)|[Arxiv](https://arxiv.org/pdf/2203.06043.pdf)|||
 |**Model improvement**|Beyond Explaining: Opportunities and Challenges of XAI-Based Model Improvement|[Arxiv](https://arxiv.org/pdf/2203.08008.pdf)|||
 |**Causal explanations**|Trying to Outrun Causality in Machine Learning: Limitations of Model Explainability Techniques for Identifying Predictive Variables|[Arxiv](https://arxiv.org/pdf/2202.09875.pdf)|[sklearn](https://github.com/matthewvowels1/ML_structural_interactions)||
