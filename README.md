@@ -476,3 +476,5 @@ Evaluation of Neural Network Explanations
 |**Causal experimental design**|Interventions, Where and How? Experimental Design for Causal Models at Scale|[Arxiv](https://arxiv.org/pdf/2203.02016.pdf)||seems ICML format|
 |**Causal discovery**|SCORE MATCHING ENABLES CAUSAL DISCOVERY OF NONLINEAR ADDITIVE NOISE MODELS|[Arxiv](https://arxiv.org/pdf/2203.04920.pdf)|||
 |**Causal Explanation - Cynthia Rudin**|WHY INTERPRETABLE CAUSAL INFERENCE IS IMPORTANT FOR HIGH-STAKES DECISION MAKING FOR CRITICALLY ILL PATIENTS AND HOW TO DO IT|[Arxiv](https://arxiv.org/pdf/2203.04920.pdf)|||
+|**Semantically consistent counterfactuals**|Making Heads or Tails: Towards Semantically Consistent Visual Counterfactuals|[Arxiv](https://arxiv.org/pdf/2203.12892.pdf)|||
+
