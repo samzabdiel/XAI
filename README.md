@@ -306,7 +306,6 @@ Evaluation of Neural Network Explanations
 |**Explainable by Design**|EXoN: EXplainable encoder Network|[Arxiv](https://arxiv.org/pdf/2105.10867.pdf)|[tensorflow 2.4.0](https://github.com/an-seunghwan/EXoN)|`explainable VAE`|
 |**Concept based explanations**|Aligning Artificial Neural Networks and Ontologies towards Explainable AI|[AAAI 2021](https://ojs.aaai.org/index.php/AAAI/article/view/16626)|||
 |**XAI via Bayesian teaching**|ABSTRACTION, VALIDATION, AND GENERALIZATION FOR EXPLAINABLE ARTIFICIAL INTELLIGENCE|[Arxiv](https://arxiv.org/pdf/2105.07508.pdf)|||
-|**Concept based counterfactual explanations**|DISSECT: Disentangled Simultaneous Explanations via Concept Traversals|[Arxiv](https://arxiv.org/pdf/2105.15164.pdf)|[tensorflow 1.12](https://github.com/asmadotgh/dissect)|Been Kim's group|
 |**Explanation blind spots**|DO NOT EXPLAIN WITHOUT CONTEXT: ADDRESSING THE BLIND SPOT OF MODEL EXPLANATIONS|[Arxiv](https://arxiv.org/pdf/2105.13787.pdf)|||
 |**BLA**|Bounded logit attention: Learning to explain image classifiers|[Arxiv](https://arxiv.org/pdf/2105.14824.pdf)|[tensorflow](https://github.com/th-b/bla)|L2X++|
 |**Interpretability - mathematical model**|The Definitions of Interpretability and Learning of Interpretable Models|[Arxiv](https://arxiv.org/pdf/2105.14171.pdf)|||
@@ -480,3 +479,4 @@ Evaluation of Neural Network Explanations
 |**Posthoc global hypersphere**|Post-hoc Global Explanation using Hypersphere Sets|[ICAART 2022](https://www.scitepress.org/Papers/2022/108191/108191.pdf)|||
 |**CapsNet explanation**|Investigation of Capsule Networks Regarding their Potential of Explainability and Image Rankings|[ICAART 2022](https://www.scitepress.org/Papers/2022/108216/108216.pdf)|||
 |**XAI evaluation**|A Unified Study of Machine Learning Explanation Evaluation Metrics|[Arxiv](https://arxiv.org/pdf/2203.14265.pdf)|||
+|**Concept based counterfactual explanations**|DISSECT: Disentangled Simultaneous Explanations via Concept Traversals|[ICLR 2022](https://openreview.net/pdf?id=eYciPrLuUhG)|[tensorflow 1.12](https://github.com/asmadotgh/dissect)|Been Kim's group|
