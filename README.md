@@ -478,3 +478,4 @@ Evaluation of Neural Network Explanations
 |**Causal Explanation - Cynthia Rudin**|WHY INTERPRETABLE CAUSAL INFERENCE IS IMPORTANT FOR HIGH-STAKES DECISION MAKING FOR CRITICALLY ILL PATIENTS AND HOW TO DO IT|[Arxiv](https://arxiv.org/pdf/2203.04920.pdf)|||
 |**Semantically consistent counterfactuals**|Making Heads or Tails: Towards Semantically Consistent Visual Counterfactuals|[Arxiv](https://arxiv.org/pdf/2203.12892.pdf)|||
 |**Posthoc global hypersphere**|Post-hoc Global Explanation using Hypersphere Sets|[ICAART 2022](https://www.scitepress.org/Papers/2022/108191/108191.pdf)|||
+|**CapsNet explanation**|Investigation of Capsule Networks Regarding their Potential of Explainability and Image Rankings|[ICAART 2022](https://www.scitepress.org/Papers/2022/108216/108216.pdf)|||
