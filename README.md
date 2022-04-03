@@ -479,4 +479,4 @@ Evaluation of Neural Network Explanations
 |**Posthoc global hypersphere**|Post-hoc Global Explanation using Hypersphere Sets|[ICAART 2022](https://www.scitepress.org/Papers/2022/108191/108191.pdf)|||
 |**CapsNet explanation**|Investigation of Capsule Networks Regarding their Potential of Explainability and Image Rankings|[ICAART 2022](https://www.scitepress.org/Papers/2022/108216/108216.pdf)|||
 |**XAI evaluation**|A Unified Study of Machine Learning Explanation Evaluation Metrics|[Arxiv](https://arxiv.org/pdf/2203.14265.pdf)|||
-|**Concept based counterfactual explanations**|DISSECT: Disentangled Simultaneous Explanations via Concept Traversals|[ICLR 2022](https://openreview.net/pdf?id=eYciPrLuUhG)|[tensorflow 1.12](https://github.com/asmadotgh/dissect)|Been Kim's group|
+|**Concept based counterfactual explanations**|DISSECT: Disentangled Simultaneous Explanations via Concept Traversals|[ICLR 2022](https://openreview.net/pdf?id=qY79G8jGsep)|[tensorflow 1.12](https://github.com/asmadotgh/dissect)|Been Kim's group|
