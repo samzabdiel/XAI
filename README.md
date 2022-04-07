@@ -481,3 +481,4 @@ Evaluation of Neural Network Explanations
 |**XAI evaluation**|A Unified Study of Machine Learning Explanation Evaluation Metrics|[Arxiv](https://arxiv.org/pdf/2203.14265.pdf)|||
 |**Concept based counterfactual explanations**|DISSECT: Disentangled Simultaneous Explanations via Concept Traversals|[ICLR 2022](https://openreview.net/pdf?id=qY79G8jGsep)|[tensorflow 1.12](https://github.com/asmadotgh/dissect)|Been Kim's group|
 |**concept evolution**|ConceptEvo: Interpreting Concept Evolution in Deep Learning Training|[Arxiv](https://arxiv.org/pdf/2203.16475.pdf)|||
+|**Poly-CAM**|Backward recursive Class Activation Map refinement for high resolution saliency map|[Paper](https://dial.uclouvain.be/pr/boreal/object/boreal%3A259822/datastream/PDF_01/view)|||
