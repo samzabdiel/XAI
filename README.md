@@ -482,3 +482,5 @@ Evaluation of Neural Network Explanations
 |**Concept based counterfactual explanations**|DISSECT: Disentangled Simultaneous Explanations via Concept Traversals|[ICLR 2022](https://openreview.net/pdf?id=qY79G8jGsep)|[tensorflow 1.12](https://github.com/asmadotgh/dissect)|Been Kim's group|
 |**concept evolution**|ConceptEvo: Interpreting Concept Evolution in Deep Learning Training|[Arxiv](https://arxiv.org/pdf/2203.16475.pdf)|||
 |**Poly-CAM**|Backward recursive Class Activation Map refinement for high resolution saliency map|[Paper](https://dial.uclouvain.be/pr/boreal/object/boreal%3A259822/datastream/PDF_01/view)|||
+|**Interactive Concept explanation**|ConceptExplainer: Interactive Explanation for Deep Neural Networks from a Concept Perspective|[Arxiv](https://arxiv.org/pdf/2204.01888.pdf)|||
+|**Quasi ProtoPNet**|Think positive: An interpretable neural network for image recognition|[Arxiv](https://www.sciencedirect.com/science/article/pii/S0893608022001125)|||
