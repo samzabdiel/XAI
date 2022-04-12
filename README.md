@@ -484,3 +484,4 @@ Evaluation of Neural Network Explanations
 |**Poly-CAM**|Backward recursive Class Activation Map refinement for high resolution saliency map|[Paper](https://dial.uclouvain.be/pr/boreal/object/boreal%3A259822/datastream/PDF_01/view)|||
 |**Interactive Concept explanation**|ConceptExplainer: Interactive Explanation for Deep Neural Networks from a Concept Perspective|[Arxiv](https://arxiv.org/pdf/2204.01888.pdf)|||
 |**Quasi ProtoPNet**|Think positive: An interpretable neural network for image recognition|[Neural Networks Journal](https://www.sciencedirect.com/science/article/pii/S0893608022001125)|||
+|**TAM**|VISUALIZING DEEP NEURAL NETWORKS WITH TOPOGRAPHIC ACTIVATION MAPS|[Arxiv](https://arxiv.org/pdf/2204.03528.pdf)|||
