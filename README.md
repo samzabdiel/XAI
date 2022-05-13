@@ -487,4 +487,5 @@ Evaluation of Neural Network Explanations
 |**TAM**|VISUALIZING DEEP NEURAL NETWORKS WITH TOPOGRAPHIC ACTIVATION MAPS|[Arxiv](https://arxiv.org/pdf/2204.03528.pdf)|||
 |**S-XAI**|Semantic interpretation for convolutional neural networks: What makes a cat a cat?|[Arxiv](https://arxiv.org/ftp/arxiv/papers/2204/2204.07724.pdf)|||
 |**See through DNN**|Perception Visualization: Seeing Through the Eyes of a DNN|[Arxiv](https://arxiv.org/pdf/2204.09920.pdf)|||
+|**IOM**|Understanding CNNs from excitations|[Arxiv](https://arxiv.org/pdf/2205.00932.pdf)|||
 |**KICE**|Integrating Prior Knowledge in Post-hoc Explanations|[Arxiv](https://arxiv.org/pdf/2204.11634.pdf)|||
