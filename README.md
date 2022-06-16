@@ -2,6 +2,7 @@
 
 
 # Open source tools
+* [Xplique](https://arxiv.org/pdf/2206.04394.pdf)
 * [DALEX](https://dalex.drwhy.ai/python/)
 * [AIX360](https://github.com/Trusted-AI/AIX360)
 * [ALIBI - Python XAI toolkit](https://github.com/SeldonIO/alibi)
