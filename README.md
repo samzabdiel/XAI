@@ -2,6 +2,7 @@
 
 
 # Open source tools
+* [OpenXAI: Towards a Transparent Evaluation of Model Explanations](https://open-xai.github.io/)
 * [Concpt based XAI library -  CXAI](https://github.com/dmitrykazhdan/concept-based-xai)
 * [Xplique](https://arxiv.org/pdf/2206.04394.pdf)
 * [DALEX](https://dalex.drwhy.ai/python/)
